@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752500241 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752571165 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -171,8 +171,6 @@ dw.com IN CNAME .
 *.dw.com IN CNAME .
 dy.fi IN CNAME .
 *.dy.fi IN CNAME .
-e.vg IN CNAME .
-*.e.vg IN CNAME .
 edl.io IN CNAME .
 *.edl.io IN CNAME .
 eepurl.com IN CNAME .
@@ -345,6 +343,8 @@ kilat.io IN CNAME .
 *.kilat.io IN CNAME .
 kko.to IN CNAME .
 *.kko.to IN CNAME .
+klik.gg IN CNAME .
+*.klik.gg IN CNAME .
 kp.org IN CNAME .
 *.kp.org IN CNAME .
 kro.kr IN CNAME .
@@ -763,6 +763,8 @@ v.gd IN CNAME .
 *.v.gd IN CNAME .
 v.redd.it IN CNAME .
 *.v.redd.it IN CNAME .
+vi-tiktok.com IN CNAME .
+*.vi-tiktok.com IN CNAME .
 view.helpline-app.com IN CNAME .
 *.view.helpline-app.com IN CNAME .
 vk.cc IN CNAME .
