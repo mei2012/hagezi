@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752499755 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752570528 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -201,6 +201,8 @@ does-it.net IN CNAME .
 *.does-it.net IN CNAME .
 doesntexist.com IN CNAME .
 *.doesntexist.com IN CNAME .
+dontexist.com IN CNAME .
+*.dontexist.com IN CNAME .
 doomdns.com IN CNAME .
 *.doomdns.com IN CNAME .
 drayddns.com IN CNAME .
@@ -419,6 +421,8 @@ hobby-site.com IN CNAME .
 *.hobby-site.com IN CNAME .
 home-webserver.de IN CNAME .
 *.home-webserver.de IN CNAME .
+home.kg IN CNAME .
+*.home.kg IN CNAME .
 home64.de IN CNAME .
 *.home64.de IN CNAME .
 homedns.org IN CNAME .
@@ -577,8 +581,6 @@ myftp.org IN CNAME .
 *.myftp.org IN CNAME .
 myhome-server.de IN CNAME .
 *.myhome-server.de IN CNAME .
-myiphost.com IN CNAME .
-*.myiphost.com IN CNAME .
 myjino.ru IN CNAME .
 *.myjino.ru IN CNAME .
 mylftv.com IN CNAME .
@@ -697,8 +699,6 @@ qhigh.com IN CNAME .
 *.qhigh.com IN CNAME .
 qpoe.com IN CNAME .
 *.qpoe.com IN CNAME .
-r-o-o-t.net IN CNAME .
-*.r-o-o-t.net IN CNAME .
 rebatesrule.net IN CNAME .
 *.rebatesrule.net IN CNAME .
 redirectme.net IN CNAME .
@@ -757,6 +757,8 @@ serveusers.com IN CNAME .
 *.serveusers.com IN CNAME .
 sexidude.com IN CNAME .
 *.sexidude.com IN CNAME .
+sexxxy.biz IN CNAME .
+*.sexxxy.biz IN CNAME .
 simple-url.com IN CNAME .
 *.simple-url.com IN CNAME .
 sitelutions.com IN CNAME .
