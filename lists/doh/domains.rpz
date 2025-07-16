@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752570495 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752656855 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -131,6 +131,8 @@ coe01.dnscry.pt IN CNAME .
 *.coe01.dnscry.pt IN CNAME .
 common.dot.dns.yandex.net IN CNAME .
 *.common.dot.dns.yandex.net IN CNAME .
+commons.host IN CNAME .
+*.commons.host IN CNAME .
 comss.one IN CNAME .
 *.comss.one IN CNAME .
 comss.ru IN CNAME .
@@ -169,8 +171,6 @@ dns.aa.net.uk IN CNAME .
 *.dns.aa.net.uk IN CNAME .
 dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
-dns.alvosec.com IN CNAME .
-*.dns.alvosec.com IN CNAME .
 dns.api.globus.org IN CNAME .
 *.dns.api.globus.org IN CNAME .
 dns.api.preview.globus.org IN CNAME .
@@ -403,6 +403,8 @@ doh.cox.net IN CNAME .
 *.doh.cox.net IN CNAME .
 doh.datahata.by IN CNAME .
 *.doh.datahata.by IN CNAME .
+doh.defaultroutes.de IN CNAME .
+*.doh.defaultroutes.de IN CNAME .
 doh.disconnect.app IN CNAME .
 *.doh.disconnect.app IN CNAME .
 doh.dns-ga.de IN CNAME .
@@ -613,6 +615,8 @@ google-public-dns-b.google.com IN CNAME .
 *.google-public-dns-b.google.com IN CNAME .
 gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h4g3z1-doh.web.app IN CNAME .
