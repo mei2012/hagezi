@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752499740 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752656850 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -57,6 +57,8 @@ $TTL 3600
 *.1flix.to IN CNAME .
 1hd.to IN CNAME .
 *.1hd.to IN CNAME .
+1tamilmv.pet IN CNAME .
+*.1tamilmv.pet IN CNAME .
 2.tracker.eu.org IN CNAME .
 *.2.tracker.eu.org IN CNAME .
 22-hd.com IN CNAME .
@@ -147,6 +149,8 @@ acg.rip IN CNAME .
 *.acg.rip IN CNAME .
 acgnx.se IN CNAME .
 *.acgnx.se IN CNAME .
+acgnxtracker.com IN CNAME .
+*.acgnxtracker.com IN CNAME .
 acid-play.com IN CNAME .
 *.acid-play.com IN CNAME .
 actvid.rs IN CNAME .
@@ -185,6 +189,8 @@ alldebrid.com IN CNAME .
 *.alldebrid.com IN CNAME .
 alliance4creativity.com IN CNAME .
 *.alliance4creativity.com IN CNAME .
+allmanga.to IN CNAME .
+*.allmanga.to IN CNAME .
 allserver.yolasite.com IN CNAME .
 *.allserver.yolasite.com IN CNAME .
 allsunday.edwardk.info IN CNAME .
@@ -261,6 +267,8 @@ animekhor.org IN CNAME .
 *.animekhor.org IN CNAME .
 animelayer.ru IN CNAME .
 *.animelayer.ru IN CNAME .
+animemusicvideos.org IN CNAME .
+*.animemusicvideos.org IN CNAME .
 animeowl.me IN CNAME .
 *.animeowl.me IN CNAME .
 animepahe.ru IN CNAME .
@@ -355,6 +363,8 @@ apunkagames.com IN CNAME .
 *.apunkagames.com IN CNAME .
 arabp2p.net IN CNAME .
 *.arabp2p.net IN CNAME .
+arc018.to IN CNAME .
+*.arc018.to IN CNAME .
 arena-tr.com IN CNAME .
 *.arena-tr.com IN CNAME .
 arenabg.ch IN CNAME .
@@ -365,6 +375,8 @@ arteenz.com IN CNAME .
 *.arteenz.com IN CNAME .
 aruacfilmes.com.br IN CNAME .
 *.aruacfilmes.com.br IN CNAME .
+asiatorrent.ddns.net IN CNAME .
+*.asiatorrent.ddns.net IN CNAME .
 asmr-200.com IN CNAME .
 *.asmr-200.com IN CNAME .
 asmr-300.com IN CNAME .
@@ -425,8 +437,6 @@ bbs.vivo.com IN CNAME .
 *.bbs.vivo.com IN CNAME .
 bclearning.top IN CNAME .
 *.bclearning.top IN CNAME .
-bd-t.net IN CNAME .
-*.bd-t.net IN CNAME .
 bddreamnet.blogspot.com IN CNAME .
 *.bddreamnet.blogspot.com IN CNAME .
 bemaniso.ws IN CNAME .
@@ -477,6 +487,8 @@ black-bird.ynh.fr IN CNAME .
 *.black-bird.ynh.fr IN CNAME .
 blackcats-games.com IN CNAME .
 *.blackcats-games.com IN CNAME .
+blackspigot.com IN CNAME .
+*.blackspigot.com IN CNAME .
 blackwave.tv IN CNAME .
 *.blackwave.tv IN CNAME .
 blackz.ro IN CNAME .
@@ -493,6 +505,8 @@ bmovies.vip IN CNAME .
 *.bmovies.vip IN CNAME .
 bms-hosxp.com IN CNAME .
 *.bms-hosxp.com IN CNAME .
+bn.dfnbd.net IN CNAME .
+*.bn.dfnbd.net IN CNAME .
 bnbteasytracker.sourceforge.net IN CNAME .
 *.bnbteasytracker.sourceforge.net IN CNAME .
 bnet-bd.com IN CNAME .
@@ -603,6 +617,8 @@ carr.codes IN CNAME .
 *.carr.codes IN CNAME .
 castradio.net IN CNAME .
 *.castradio.net IN CNAME .
+cataz.to IN CNAME .
+*.cataz.to IN CNAME .
 catflix.su IN CNAME .
 *.catflix.su IN CNAME .
 cboku.com IN CNAME .
@@ -671,6 +687,8 @@ codelist.cc IN CNAME .
 *.codelist.cc IN CNAME .
 collectionchamber.blogspot.com IN CNAME .
 *.collectionchamber.blogspot.com IN CNAME .
+comicaso.space IN CNAME .
+*.comicaso.space IN CNAME .
 comicat.org IN CNAME .
 *.comicat.org IN CNAME .
 comick.io IN CNAME .
@@ -725,8 +743,6 @@ cutiegirl.ru IN CNAME .
 *.cutiegirl.ru IN CNAME .
 cutscloud.duckdns.org IN CNAME .
 *.cutscloud.duckdns.org IN CNAME .
-cytu.be IN CNAME .
-*.cytu.be IN CNAME .
 d-addicts.com IN CNAME .
 *.d-addicts.com IN CNAME .
 d40969.acod.regrucolo.ru IN CNAME .
@@ -755,6 +771,8 @@ debrid-services-comparison.netlify.app IN CNAME .
 *.debrid-services-comparison.netlify.app IN CNAME .
 debridmediamanager.com IN CNAME .
 *.debridmediamanager.com IN CNAME .
+degree-anime.com IN CNAME .
+*.degree-anime.com IN CNAME .
 deluge-torrent.org IN CNAME .
 *.deluge-torrent.org IN CNAME .
 demonii.com IN CNAME .
@@ -813,8 +831,6 @@ dokumen.pub IN CNAME .
 *.dokumen.pub IN CNAME .
 donkey.to IN CNAME .
 *.donkey.to IN CNAME .
-dood.re IN CNAME .
-*.dood.re IN CNAME .
 dood.to IN CNAME .
 *.dood.to IN CNAME .
 doodstream.com IN CNAME .
@@ -855,8 +871,6 @@ drumkitx.com IN CNAME .
 *.drumkitx.com IN CNAME .
 drunkenslug.com IN CNAME .
 *.drunkenslug.com IN CNAME .
-ds2play.com IN CNAME .
-*.ds2play.com IN CNAME .
 dtbook.shop IN CNAME .
 *.dtbook.shop IN CNAME .
 duboku.co IN CNAME .
@@ -1121,6 +1135,8 @@ funfile.org IN CNAME .
 *.funfile.org IN CNAME .
 futurenet-bd.com IN CNAME .
 *.futurenet-bd.com IN CNAME .
+fxtt.ru IN CNAME .
+*.fxtt.ru IN CNAME .
 fzmovies.host IN CNAME .
 *.fzmovies.host IN CNAME .
 gadget-vault.com IN CNAME .
@@ -1709,6 +1725,8 @@ mininova.org IN CNAME .
 *.mininova.org IN CNAME .
 miobt.com IN CNAME .
 *.miobt.com IN CNAME .
+mirpurnetbd.com IN CNAME .
+*.mirpurnetbd.com IN CNAME .
 mirror.aptus.co.tz IN CNAME .
 *.mirror.aptus.co.tz IN CNAME .
 mirrorbay.org IN CNAME .
@@ -1725,6 +1743,10 @@ mixfilm.net IN CNAME .
 *.mixfilm.net IN CNAME .
 mixtapetorrent.com IN CNAME .
 *.mixtapetorrent.com IN CNAME .
+mkvcinemas.men IN CNAME .
+*.mkvcinemas.men IN CNAME .
+mkvcinemas.red IN CNAME .
+*.mkvcinemas.red IN CNAME .
 mlb24all.ir IN CNAME .
 *.mlb24all.ir IN CNAME .
 mma-core.com IN CNAME .
@@ -2121,8 +2143,6 @@ pow7.com IN CNAME .
 *.pow7.com IN CNAME .
 premiumize.me IN CNAME .
 *.premiumize.me IN CNAME .
-premiummodapk.co.uk IN CNAME .
-*.premiummodapk.co.uk IN CNAME .
 prestige.minimafia.nl IN CNAME .
 *.prestige.minimafia.nl IN CNAME .
 primeflix-web.vercel.app IN CNAME .
@@ -2299,8 +2319,6 @@ rnbastreams.com IN CNAME .
 *.rnbastreams.com IN CNAME .
 rocketnet.epizy.com IN CNAME .
 *.rocketnet.epizy.com IN CNAME .
-rojacalcio.com IN CNAME .
-*.rojacalcio.com IN CNAME .
 rojadirecta.es IN CNAME .
 *.rojadirecta.es IN CNAME .
 rojadirecta.eu IN CNAME .
@@ -2481,6 +2499,8 @@ simpsonsua.tv IN CNAME .
 *.simpsonsua.tv IN CNAME .
 sitelike.org IN CNAME .
 *.sitelike.org IN CNAME .
+siyahmelek.pro IN CNAME .
+*.siyahmelek.pro IN CNAME .
 skidrow-games.com IN CNAME .
 *.skidrow-games.com IN CNAME .
 skidrowcodex.net IN CNAME .
@@ -2557,6 +2577,8 @@ sportshub.stream IN CNAME .
 *.sportshub.stream IN CNAME .
 sportsurge.net IN CNAME .
 *.sportsurge.net IN CNAME .
+srl.dfnbd.net IN CNAME .
+*.srl.dfnbd.net IN CNAME .
 srstop.link IN CNAME .
 *.srstop.link IN CNAME .
 srv5.digiboy.ir IN CNAME .
@@ -2659,6 +2681,8 @@ t.quic.ws IN CNAME .
 *.t.quic.ws IN CNAME .
 t.zerg.pw IN CNAME .
 *.t.zerg.pw IN CNAME .
+t1.tokhmi.xyz IN CNAME .
+*.t1.tokhmi.xyz IN CNAME .
 taciturn-shadow.spb.ru IN CNAME .
 *.taciturn-shadow.spb.ru IN CNAME .
 taiwebs.com IN CNAME .
@@ -2819,6 +2843,8 @@ torrent.arjlover.net IN CNAME .
 *.torrent.arjlover.net IN CNAME .
 torrent.by IN CNAME .
 *.torrent.by IN CNAME .
+torrent.dfnbd.net IN CNAME .
+*.torrent.dfnbd.net IN CNAME .
 torrent.eu.org IN CNAME .
 *.torrent.eu.org IN CNAME .
 torrent.fedoraproject.org IN CNAME .
@@ -2969,6 +2995,8 @@ tracker.artixlinux.org IN CNAME .
 *.tracker.artixlinux.org IN CNAME .
 tracker.auctor.tv IN CNAME .
 *.tracker.auctor.tv IN CNAME .
+tracker.babico.name.tr IN CNAME .
+*.tracker.babico.name.tr IN CNAME .
 tracker.baka.ink IN CNAME .
 *.tracker.baka.ink IN CNAME .
 tracker.beeimg.com IN CNAME .
@@ -3105,6 +3133,8 @@ tracker.hdtime.org IN CNAME .
 *.tracker.hdtime.org IN CNAME .
 tracker.hifitechindia.com IN CNAME .
 *.tracker.hifitechindia.com IN CNAME .
+tracker.home.kmzs123.cn IN CNAME .
+*.tracker.home.kmzs123.cn IN CNAME .
 tracker.iamhansen.xyz IN CNAME .
 *.tracker.iamhansen.xyz IN CNAME .
 tracker.ilibr.org IN CNAME .
@@ -3219,8 +3249,6 @@ tracker.renfei.net IN CNAME .
 *.tracker.renfei.net IN CNAME .
 tracker.revolutiontt.me IN CNAME .
 *.tracker.revolutiontt.me IN CNAME .
-tracker.safe.moe IN CNAME .
-*.tracker.safe.moe IN CNAME .
 tracker.sakurato.art IN CNAME .
 *.tracker.sakurato.art IN CNAME .
 tracker.samplicio.us IN CNAME .
@@ -3263,6 +3291,8 @@ tracker.tntvillage.scambioetico.org IN CNAME .
 *.tracker.tntvillage.scambioetico.org IN CNAME .
 tracker.torrust-demo.com IN CNAME .
 *.tracker.torrust-demo.com IN CNAME .
+tracker.toss.li IN CNAME .
+*.tracker.toss.li IN CNAME .
 tracker.totheglory.im IN CNAME .
 *.tracker.totheglory.im IN CNAME .
 tracker.tritan.gg IN CNAME .
@@ -3337,6 +3367,8 @@ tracker2.torrentino.com IN CNAME .
 *.tracker2.torrentino.com IN CNAME .
 tracker3.ctix.cn IN CNAME .
 *.tracker3.ctix.cn IN CNAME .
+tracker3.dler.com IN CNAME .
+*.tracker3.dler.com IN CNAME .
 tracker3.itzmx.com IN CNAME .
 *.tracker3.itzmx.com IN CNAME .
 tracker3.torrentino.com IN CNAME .
@@ -3405,6 +3437,8 @@ uakino-bay.net IN CNAME .
 *.uakino-bay.net IN CNAME .
 uakino.me IN CNAME .
 *.uakino.me IN CNAME .
+uaserial.tv IN CNAME .
+*.uaserial.tv IN CNAME .
 uaserials.com IN CNAME .
 *.uaserials.com IN CNAME .
 uaserials.pro IN CNAME .
@@ -3503,6 +3537,8 @@ vide0.net IN CNAME .
 *.vide0.net IN CNAME .
 video.laola1.at IN CNAME .
 *.video.laola1.at IN CNAME .
+videq.dev IN CNAME .
+*.videq.dev IN CNAME .
 vider.info IN CNAME .
 *.vider.info IN CNAME .
 vidmate.net IN CNAME .
@@ -3555,6 +3591,8 @@ vuze.com IN CNAME .
 *.vuze.com IN CNAME .
 w.wwwww.wtf IN CNAME .
 *.w.wwwww.wtf IN CNAME .
+war-graphique.c.la IN CNAME .
+*.war-graphique.c.la IN CNAME .
 warez-files.com IN CNAME .
 *.warez-files.com IN CNAME .
 warez-host.com IN CNAME .
@@ -3713,8 +3751,6 @@ yts.am IN CNAME .
 *.yts.am IN CNAME .
 yts.mx IN CNAME .
 *.yts.mx IN CNAME .
-ytstv.me IN CNAME .
-*.ytstv.me IN CNAME .
 yunnx.com IN CNAME .
 *.yunnx.com IN CNAME .
 yuppow.com IN CNAME .
