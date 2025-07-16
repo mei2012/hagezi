@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752570585 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752656907 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -607,6 +607,8 @@ buttobi.net IN CNAME .
 *.buttobi.net IN CNAME .
 buyoutblog.com IN CNAME .
 *.buyoutblog.com IN CNAME .
+c.la IN CNAME .
+*.c.la IN CNAME .
 canalblog.com IN CNAME .
 *.canalblog.com IN CNAME .
 canariblogs.com IN CNAME .
@@ -1499,8 +1501,6 @@ vidublog.com IN CNAME .
 *.vidublog.com IN CNAME .
 vip-blog.com IN CNAME .
 *.vip-blog.com IN CNAME .
-vmn.net IN CNAME .
-*.vmn.net IN CNAME .
 w3spaces.com IN CNAME .
 *.w3spaces.com IN CNAME .
 wallinside.com IN CNAME .
