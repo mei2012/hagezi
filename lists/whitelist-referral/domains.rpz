@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752571170 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752657409 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -467,8 +467,6 @@ awstrack.me IN CNAME .
 *.awstrack.me IN CNAME .
 aylink.co IN CNAME .
 *.aylink.co IN CNAME .
-banners.livepartners.com IN CNAME .
-*.banners.livepartners.com IN CNAME .
 bcp.crwdcntrl.net IN CNAME .
 *.bcp.crwdcntrl.net IN CNAME .
 beehiiv.com IN CNAME .
@@ -1011,16 +1009,12 @@ nb-go.kelkoogroup.net IN CNAME .
 *.nb-go.kelkoogroup.net IN CNAME .
 neoengage-va-cdn.exponea.com IN CNAME .
 *.neoengage-va-cdn.exponea.com IN CNAME .
-netbet.livepartners.com IN CNAME .
-*.netbet.livepartners.com IN CNAME .
 network.bazaarvoice.com IN CNAME .
 *.network.bazaarvoice.com IN CNAME .
 newsletter2go.com IN CNAME .
 *.newsletter2go.com IN CNAME .
 newslink.reuters.com IN CNAME .
 *.newslink.reuters.com IN CNAME .
-njih.net IN CNAME .
-*.njih.net IN CNAME .
 nl-go.kelkoogroup.net IN CNAME .
 *.nl-go.kelkoogroup.net IN CNAME .
 no-go.kelkoogroup.net IN CNAME .
@@ -1765,8 +1759,6 @@ tracking.cashkaro.com IN CNAME .
 *.tracking.cashkaro.com IN CNAME .
 tracking.ftmo.com IN CNAME .
 *.tracking.ftmo.com IN CNAME .
-tracking.publicidees.com IN CNAME .
-*.tracking.publicidees.com IN CNAME .
 tracking.s24.com IN CNAME .
 *.tracking.s24.com IN CNAME .
 tracking.socketlabs.com IN CNAME .
