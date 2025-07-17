@@ -1,29 +1,3 @@
 ; RPZ "TIF-MINI"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752657324 12h 15m 3w 3h
-blogspot.com IN CNAME .
-*.blogspot.com IN CNAME .
-duckdns.org IN CNAME .
-*.duckdns.org IN CNAME .
-firebaseapp.com IN CNAME .
-*.firebaseapp.com IN CNAME .
-gitbook.io IN CNAME .
-*.gitbook.io IN CNAME .
-glitch.me IN CNAME .
-*.glitch.me IN CNAME .
-hopto.org IN CNAME .
-*.hopto.org IN CNAME .
-pages.dev IN CNAME .
-*.pages.dev IN CNAME .
-r2.dev IN CNAME .
-*.r2.dev IN CNAME .
-vercel.app IN CNAME .
-*.vercel.app IN CNAME .
-web.app IN CNAME .
-*.web.app IN CNAME .
-webflow.io IN CNAME .
-*.webflow.io IN CNAME .
-weebly.com IN CNAME .
-*.weebly.com IN CNAME .
-zapto.org IN CNAME .
-*.zapto.org IN CNAME .
+@ SOA dummy-ns hostmaster 1752743747 12h 15m 3w 3h
