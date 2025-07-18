@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752571165 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752830213 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -55,6 +55,8 @@ app.link IN CNAME .
 *.app.link IN CNAME .
 apple.co IN CNAME .
 *.apple.co IN CNAME .
+appurl.io IN CNAME .
+*.appurl.io IN CNAME .
 at.vibe.com IN CNAME .
 *.at.vibe.com IN CNAME .
 aylink.co IN CNAME .
@@ -99,8 +101,6 @@ buff.ly IN CNAME .
 *.buff.ly IN CNAME .
 cardiox-care.com IN CNAME .
 *.cardiox-care.com IN CNAME .
-cbsn.ws IN CNAME .
-*.cbsn.ws IN CNAME .
 cc.cc IN CNAME .
 *.cc.cc IN CNAME .
 cdl.booksy.com IN CNAME .
@@ -351,8 +351,6 @@ kro.kr IN CNAME .
 *.kro.kr IN CNAME .
 kuku.lu IN CNAME .
 *.kuku.lu IN CNAME .
-kurl.ru IN CNAME .
-*.kurl.ru IN CNAME .
 kutt.comodo.com IN CNAME .
 *.kutt.comodo.com IN CNAME .
 kutt.it IN CNAME .
@@ -497,6 +495,8 @@ ow.ly IN CNAME .
 *.ow.ly IN CNAME .
 page.link IN CNAME .
 *.page.link IN CNAME .
+parg.aparg.com IN CNAME .
+*.parg.aparg.com IN CNAME .
 passion-radio.net IN CNAME .
 *.passion-radio.net IN CNAME .
 paste.ee IN CNAME .
@@ -821,8 +821,6 @@ yourls.org IN CNAME .
 *.yourls.org IN CNAME .
 zap.buzz IN CNAME .
 *.zap.buzz IN CNAME .
-zaya.io IN CNAME .
-*.zaya.io IN CNAME .
 zeep.ly IN CNAME .
 *.zeep.ly IN CNAME .
 zip.net IN CNAME .
