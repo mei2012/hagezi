@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752656907 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752829738 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -1533,8 +1533,6 @@ weblogco.com IN CNAME .
 *.weblogco.com IN CNAME .
 weblogs.jp IN CNAME .
 *.weblogs.jp IN CNAME .
-webng.com IN CNAME .
-*.webng.com IN CNAME .
 webnode.com IN CNAME .
 *.webnode.com IN CNAME .
 webnode.com.br IN CNAME .
