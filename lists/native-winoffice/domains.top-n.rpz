@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752829804 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752916179 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring-ipv6only.msedge.net IN CNAME .
@@ -71,6 +71,8 @@ analytics-dev-lleap-events.servicebus.windows.net IN CNAME .
 *.analytics-dev-lleap-events.servicebus.windows.net IN CNAME .
 analytics-dev-simpad-events.servicebus.windows.net IN CNAME .
 *.analytics-dev-simpad-events.servicebus.windows.net IN CNAME .
+analytics-listener.trafficmanager.net IN CNAME .
+*.analytics-listener.trafficmanager.net IN CNAME .
 analytics.live.com IN CNAME .
 *.analytics.live.com IN CNAME .
 analytics.msn.com IN CNAME .
