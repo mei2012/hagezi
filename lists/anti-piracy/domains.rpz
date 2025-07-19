@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752829660 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752916041 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -361,8 +361,6 @@ aptoide.com IN CNAME .
 *.aptoide.com IN CNAME .
 apunkagames.com IN CNAME .
 *.apunkagames.com IN CNAME .
-arabp2p.net IN CNAME .
-*.arabp2p.net IN CNAME .
 arc018.to IN CNAME .
 *.arc018.to IN CNAME .
 arena-tr.com IN CNAME .
@@ -731,6 +729,8 @@ crazyhd.com IN CNAME .
 *.crazyhd.com IN CNAME .
 crichd.com.co IN CNAME .
 *.crichd.com.co IN CNAME .
+crichd.vip IN CNAME .
+*.crichd.vip IN CNAME .
 cronus.spaceports.com IN CNAME .
 *.cronus.spaceports.com IN CNAME .
 crotorrents.com IN CNAME .
@@ -1619,8 +1619,6 @@ lookmovie2.to IN CNAME .
 *.lookmovie2.to IN CNAME .
 lossless.servehttp.com IN CNAME .
 *.lossless.servehttp.com IN CNAME .
-losslessclub.com IN CNAME .
-*.losslessclub.com IN CNAME .
 lostfilm.tv IN CNAME .
 *.lostfilm.tv IN CNAME .
 loushao.net IN CNAME .
@@ -1767,6 +1765,8 @@ mockupgratisan.blogspot.com IN CNAME .
 *.mockupgratisan.blogspot.com IN CNAME .
 mockupgratisan.blogspot.in IN CNAME .
 *.mockupgratisan.blogspot.in IN CNAME .
+mod-yolo.com IN CNAME .
+*.mod-yolo.com IN CNAME .
 modcombo.com IN CNAME .
 *.modcombo.com IN CNAME .
 modded-1.com IN CNAME .
