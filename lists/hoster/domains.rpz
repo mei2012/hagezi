@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752829738 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752916102 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -145,8 +145,6 @@ beget.tech IN CNAME .
 *.beget.tech IN CNAME .
 bizhat.com IN CNAME .
 *.bizhat.com IN CNAME .
-blackblogs.org IN CNAME .
-*.blackblogs.org IN CNAME .
 blazingblog.com IN CNAME .
 *.blazingblog.com IN CNAME .
 bleepblogs.com IN CNAME .
