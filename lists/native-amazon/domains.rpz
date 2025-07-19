@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752829774 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752916139 12h 15m 3w 3h
 aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 aan.amazon.co.uk IN CNAME .
@@ -607,6 +607,18 @@ vfwm.amazon-adsystem.com IN CNAME .
 *.vfwm.amazon-adsystem.com IN CNAME .
 vfws.amazon-adsystem.com IN CNAME .
 *.vfws.amazon-adsystem.com IN CNAME .
+video-ads.a2z.com IN CNAME .
+*.video-ads.a2z.com IN CNAME .
+vq-eu-west-1.amazon-adsystem.com IN CNAME .
+*.vq-eu-west-1.amazon-adsystem.com IN CNAME .
+vq-fe-us-west-2.amazon-adsystem.com IN CNAME .
+*.vq-fe-us-west-2.amazon-adsystem.com IN CNAME .
+vq-test-us-east-1.amazon-adsystem.com IN CNAME .
+*.vq-test-us-east-1.amazon-adsystem.com IN CNAME .
+vq-us-east-1.amazon-adsystem.com IN CNAME .
+*.vq-us-east-1.amazon-adsystem.com IN CNAME .
+vq-us-west-2.amazon-adsystem.com IN CNAME .
+*.vq-us-west-2.amazon-adsystem.com IN CNAME .
 wms-eu.amazon-adsystem.com IN CNAME .
 *.wms-eu.amazon-adsystem.com IN CNAME .
 wms-fe.amazon-adsystem.com IN CNAME .
