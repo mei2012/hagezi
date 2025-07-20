@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752916102 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753002503 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -25,8 +25,6 @@ $TTL 3600
 *.150m.com IN CNAME .
 16mb.com IN CNAME .
 *.16mb.com IN CNAME .
-1asphost.com IN CNAME .
-*.1asphost.com IN CNAME .
 1fr1.net IN CNAME .
 *.1fr1.net IN CNAME .
 20fr.com IN CNAME .
@@ -1073,6 +1071,8 @@ miarroba.com IN CNAME .
 *.miarroba.com IN CNAME .
 mihanblog.com IN CNAME .
 *.mihanblog.com IN CNAME .
+mindmix.ru IN CNAME .
+*.mindmix.ru IN CNAME .
 mixh.jp IN CNAME .
 *.mixh.jp IN CNAME .
 mochahost.com IN CNAME .
@@ -1351,6 +1351,8 @@ swbell.net IN CNAME .
 *.swbell.net IN CNAME .
 sweb.cz IN CNAME .
 *.sweb.cz IN CNAME .
+synergize.co IN CNAME .
+*.synergize.co IN CNAME .
 szm.com IN CNAME .
 *.szm.com IN CNAME .
 szm.sk IN CNAME .
