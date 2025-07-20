@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752916570 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753002951 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -1739,6 +1739,8 @@ track.trafficguard.ai IN CNAME .
 *.track.trafficguard.ai IN CNAME .
 track34102166105.effiliation.com IN CNAME .
 *.track34102166105.effiliation.com IN CNAME .
+track34102180193.effiliation.com IN CNAME .
+*.track34102180193.effiliation.com IN CNAME .
 track3410224983.effiliation.com IN CNAME .
 *.track3410224983.effiliation.com IN CNAME .
 trackcmp.net IN CNAME .
