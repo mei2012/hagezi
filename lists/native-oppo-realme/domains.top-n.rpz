@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-OPPO-REALME-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753002551 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753088977 12h 15m 3w 3h
 ads-bdapi-my.heytapmobile.com IN CNAME .
 *.ads-bdapi-my.heytapmobile.com IN CNAME .
 ads-bdapi-ph.heytapmobile.com IN CNAME .
@@ -701,6 +701,10 @@ storedl82cc6d1f.nearme.com.cn IN CNAME .
 *.storedl82cc6d1f.nearme.com.cn IN CNAME .
 u-id.cpc.heytapmobile.com IN CNAME .
 *.u-id.cpc.heytapmobile.com IN CNAME .
+ums-rum-cn.heytapimage.com IN CNAME .
+*.ums-rum-cn.heytapimage.com IN CNAME .
+ums-rum-global.heytapimage.com IN CNAME .
+*.ums-rum-global.heytapimage.com IN CNAME .
 ums-telemetry-cn.heytapmobi.com IN CNAME .
 *.ums-telemetry-cn.heytapmobi.com IN CNAME .
 wallpaper-service-sg.allawnos.com IN CNAME .
