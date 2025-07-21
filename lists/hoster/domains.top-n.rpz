@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753002503 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753088932 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -833,6 +833,8 @@ freehostia.com IN CNAME .
 *.freehostia.com IN CNAME .
 freehosting.com IN CNAME .
 *.freehosting.com IN CNAME .
+freehostingeu.com IN CNAME .
+*.freehostingeu.com IN CNAME .
 freeoda.com IN CNAME .
 *.freeoda.com IN CNAME .
 freeservers.com IN CNAME .
@@ -1131,8 +1133,6 @@ nearlyfreespeech.net IN CNAME .
 *.nearlyfreespeech.net IN CNAME .
 neocities.org IN CNAME .
 *.neocities.org IN CNAME .
-netai.net IN CNAME .
-*.netai.net IN CNAME .
 nethouse.ru IN CNAME .
 *.nethouse.ru IN CNAME .
 netspace.net.au IN CNAME .
