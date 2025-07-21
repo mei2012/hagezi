@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753002457 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753088886 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -541,8 +541,6 @@ merseine.com IN CNAME .
 *.merseine.com IN CNAME .
 mh-it.com IN CNAME .
 *.mh-it.com IN CNAME .
-mine.bz IN CNAME .
-*.mine.bz IN CNAME .
 mine.nu IN CNAME .
 *.mine.nu IN CNAME .
 misecure.com IN CNAME .
@@ -569,6 +567,8 @@ myddns.com IN CNAME .
 *.myddns.com IN CNAME .
 myddns.me IN CNAME .
 *.myddns.me IN CNAME .
+myddns.rocks IN CNAME .
+*.myddns.rocks IN CNAME .
 myeffect.net IN CNAME .
 *.myeffect.net IN CNAME .
 myftp.biz IN CNAME .
