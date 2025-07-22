@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753088886 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753175262 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -83,8 +83,6 @@ cloudns.be IN CNAME .
 *.cloudns.be IN CNAME .
 cloudns.biz IN CNAME .
 *.cloudns.biz IN CNAME .
-cloudns.cc IN CNAME .
-*.cloudns.cc IN CNAME .
 cloudns.ch IN CNAME .
 *.cloudns.ch IN CNAME .
 cloudns.cl IN CNAME .
