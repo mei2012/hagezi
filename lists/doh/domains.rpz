@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753088875 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753175251 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -285,6 +285,8 @@ dns.shecan.ir IN CNAME .
 *.dns.shecan.ir IN CNAME .
 dns.sindominio.net IN CNAME .
 *.dns.sindominio.net IN CNAME .
+dns.smartguard.io IN CNAME .
+*.dns.smartguard.io IN CNAME .
 dns.surfshark.com IN CNAME .
 *.dns.surfshark.com IN CNAME .
 dns.surfsharkdns.com IN CNAME .
@@ -821,6 +823,8 @@ res-acst3.absolight.net IN CNAME .
 *.res-acst3.absolight.net IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
+resolver.r0cket.net IN CNAME .
+*.resolver.r0cket.net IN CNAME .
 resolver.sunet.se IN CNAME .
 *.resolver.sunet.se IN CNAME .
 resolver1-fs.opendns.com IN CNAME .
