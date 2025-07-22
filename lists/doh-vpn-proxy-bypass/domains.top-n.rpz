@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753088882 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753175258 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -1245,6 +1245,8 @@ dns.shecan.ir IN CNAME .
 *.dns.shecan.ir IN CNAME .
 dns.sindominio.net IN CNAME .
 *.dns.sindominio.net IN CNAME .
+dns.smartguard.io IN CNAME .
+*.dns.smartguard.io IN CNAME .
 dns.surfsharkdns.com IN CNAME .
 *.dns.surfsharkdns.com IN CNAME .
 dns.syaifullah.com IN CNAME .
@@ -2495,6 +2497,8 @@ research.africa.com IN CNAME .
 *.research.africa.com IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
+resolver.r0cket.net IN CNAME .
+*.resolver.r0cket.net IN CNAME .
 resolver.sunet.se IN CNAME .
 *.resolver.sunet.se IN CNAME .
 resolver1-fs.opendns.com IN CNAME .
