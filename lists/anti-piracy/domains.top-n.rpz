@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753002441 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753175246 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -615,6 +615,8 @@ carnival.com.bd IN CNAME .
 *.carnival.com.bd IN CNAME .
 carr.codes IN CNAME .
 *.carr.codes IN CNAME .
+cartoonhd.com IN CNAME .
+*.cartoonhd.com IN CNAME .
 castradio.net IN CNAME .
 *.castradio.net IN CNAME .
 cataz.to IN CNAME .
@@ -733,6 +735,8 @@ crichd.com.co IN CNAME .
 *.crichd.com.co IN CNAME .
 crichd.vip IN CNAME .
 *.crichd.vip IN CNAME .
+crohasit.net IN CNAME .
+*.crohasit.net IN CNAME .
 cronus.spaceports.com IN CNAME .
 *.cronus.spaceports.com IN CNAME .
 crotorrents.com IN CNAME .
@@ -805,6 +809,8 @@ discoveryftp.net IN CNAME .
 *.discoveryftp.net IN CNAME .
 diva.sfsu.edu IN CNAME .
 *.diva.sfsu.edu IN CNAME .
+divicast.com IN CNAME .
+*.divicast.com IN CNAME .
 djavichai.blogspot.com IN CNAME .
 *.djavichai.blogspot.com IN CNAME .
 dl-paradizer.blogspot.com IN CNAME .
@@ -851,6 +857,8 @@ down.mdiaload.com IN CNAME .
 *.down.mdiaload.com IN CNAME .
 download.ir IN CNAME .
 *.download.ir IN CNAME .
+download.nerocloud.me IN CNAME .
+*.download.nerocloud.me IN CNAME .
 downloadgram.org IN CNAME .
 *.downloadgram.org IN CNAME .
 downloadha.com IN CNAME .
@@ -1401,8 +1409,6 @@ istream-it.com IN CNAME .
 *.istream-it.com IN CNAME .
 italia-film.com IN CNAME .
 *.italia-film.com IN CNAME .
-italia-film.io IN CNAME .
-*.italia-film.io IN CNAME .
 itorrent.ws IN CNAME .
 *.itorrent.ws IN CNAME .
 itorrents-igruha.org IN CNAME .
@@ -2099,10 +2105,14 @@ pdfdrive.to IN CNAME .
 *.pdfdrive.to IN CNAME .
 pdfroom.com IN CNAME .
 *.pdfroom.com IN CNAME .
+peacetvnetwork.visionip.tv IN CNAME .
+*.peacetvnetwork.visionip.tv IN CNAME .
 peckservers.com IN CNAME .
 *.peckservers.com IN CNAME .
 peerfect.org IN CNAME .
 *.peerfect.org IN CNAME .
+peersteers.org IN CNAME .
+*.peersteers.org IN CNAME .
 pesktop.com IN CNAME .
 *.pesktop.com IN CNAME .
 piracitoplista.ugu.pl IN CNAME .
@@ -2197,6 +2207,8 @@ putlocker.pe IN CNAME .
 *.putlocker.pe IN CNAME .
 putlocker.vip IN CNAME .
 *.putlocker.vip IN CNAME .
+pybittrack.retiolus.net IN CNAME .
+*.pybittrack.retiolus.net IN CNAME .
 qbittorrent.org IN CNAME .
 *.qbittorrent.org IN CNAME .
 qg.lorzl.gq IN CNAME .
@@ -2325,8 +2337,6 @@ rlsbb.ru IN CNAME .
 *.rlsbb.ru IN CNAME .
 rlsbb.to IN CNAME .
 *.rlsbb.to IN CNAME .
-rnbastreams.com IN CNAME .
-*.rnbastreams.com IN CNAME .
 rocketnet.epizy.com IN CNAME .
 *.rocketnet.epizy.com IN CNAME .
 rojadirecta.es IN CNAME .
@@ -2499,8 +2509,6 @@ showrss.info IN CNAME .
 *.showrss.info IN CNAME .
 shubt.net IN CNAME .
 *.shubt.net IN CNAME .
-siambit.com IN CNAME .
-*.siambit.com IN CNAME .
 sidequestvr.com IN CNAME .
 *.sidequestvr.com IN CNAME .
 sidewinderx.sytes.net IN CNAME .
@@ -2867,6 +2875,8 @@ torrent.hificode.in IN CNAME .
 *.torrent.hificode.in IN CNAME .
 torrent.mp3quran.net IN CNAME .
 *.torrent.mp3quran.net IN CNAME .
+torrent.tracker.durukanbal.com IN CNAME .
+*.torrent.tracker.durukanbal.com IN CNAME .
 torrent.ubuntu.com IN CNAME .
 *.torrent.ubuntu.com IN CNAME .
 torrent.unix-ag.uni-kl.de IN CNAME .
