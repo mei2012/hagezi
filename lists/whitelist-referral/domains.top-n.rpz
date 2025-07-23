@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753175860 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753262237 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -93,6 +93,8 @@ adorama.rfvk.net IN CNAME .
 *.adorama.rfvk.net IN CNAME .
 ads.revjet.com IN CNAME .
 *.ads.revjet.com IN CNAME .
+adscendmedia.com IN CNAME .
+*.adscendmedia.com IN CNAME .
 adservice.google.ae IN CNAME .
 *.adservice.google.ae IN CNAME .
 adservice.google.al IN CNAME .
@@ -477,6 +479,8 @@ bfast.com IN CNAME .
 *.bfast.com IN CNAME .
 bizrate.com IN CNAME .
 *.bizrate.com IN CNAME .
+bmtrck.com IN CNAME .
+*.bmtrck.com IN CNAME .
 bnc.lt IN CNAME .
 *.bnc.lt IN CNAME .
 br-go.kelkoogroup.net IN CNAME .
@@ -1735,6 +1739,8 @@ track.shoparize.com IN CNAME .
 *.track.shoparize.com IN CNAME .
 track.smtp2go.net IN CNAME .
 *.track.smtp2go.net IN CNAME .
+track.superdry.com IN CNAME .
+*.track.superdry.com IN CNAME .
 track.tenjin.io IN CNAME .
 *.track.tenjin.io IN CNAME .
 track.trafficguard.ai IN CNAME .
