@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753175246 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753261661 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -229,6 +229,8 @@ androidp1.com IN CNAME .
 *.androidp1.com IN CNAME .
 angelleye.no-ip.com IN CNAME .
 *.angelleye.no-ip.com IN CNAME .
+ani-tsuzuki.net IN CNAME .
+*.ani-tsuzuki.net IN CNAME .
 anidex.info IN CNAME .
 *.anidex.info IN CNAME .
 anidex.moe IN CNAME .
@@ -361,6 +363,8 @@ aptoide.com IN CNAME .
 *.aptoide.com IN CNAME .
 apunkagames.com IN CNAME .
 *.apunkagames.com IN CNAME .
+arabp2p.net IN CNAME .
+*.arabp2p.net IN CNAME .
 arc018.to IN CNAME .
 *.arc018.to IN CNAME .
 arena-tr.com IN CNAME .
@@ -1289,6 +1293,8 @@ hdmoviesflix.pages.dev IN CNAME .
 *.hdmoviesflix.pages.dev IN CNAME .
 hdo.app IN CNAME .
 *.hdo.app IN CNAME .
+hdreactor.org IN CNAME .
+*.hdreactor.org IN CNAME .
 hdrezka-ua.com IN CNAME .
 *.hdrezka-ua.com IN CNAME .
 hdrezka.ag IN CNAME .
@@ -1525,6 +1531,8 @@ koli.services IN CNAME .
 *.koli.services IN CNAME .
 komiksin.net IN CNAME .
 *.komiksin.net IN CNAME .
+komikstation.org IN CNAME .
+*.komikstation.org IN CNAME .
 koskomputer.blogspot.co.uk IN CNAME .
 *.koskomputer.blogspot.co.uk IN CNAME .
 koskomputer.blogspot.com IN CNAME .
@@ -2637,6 +2645,8 @@ store.rg-adguard.net IN CNAME .
 *.store.rg-adguard.net IN CNAME .
 storysaver.net IN CNAME .
 *.storysaver.net IN CNAME .
+streamcloud.my IN CNAME .
+*.streamcloud.my IN CNAME .
 streameast.sk IN CNAME .
 *.streameast.sk IN CNAME .
 streamed.su IN CNAME .
