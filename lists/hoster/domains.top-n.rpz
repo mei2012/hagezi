@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753175337 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753261741 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -605,6 +605,8 @@ buyoutblog.com IN CNAME .
 *.buyoutblog.com IN CNAME .
 c.la IN CNAME .
 *.c.la IN CNAME .
+cableonline.com.mx IN CNAME .
+*.cableonline.com.mx IN CNAME .
 canalblog.com IN CNAME .
 *.canalblog.com IN CNAME .
 canariblogs.com IN CNAME .
@@ -927,8 +929,6 @@ image-perth.org IN CNAME .
 *.image-perth.org IN CNAME .
 imblogs.net IN CNAME .
 *.imblogs.net IN CNAME .
-indexcm-t.com IN CNAME .
-*.indexcm-t.com IN CNAME .
 indybay.org IN CNAME .
 *.indybay.org IN CNAME .
 infinityfree.com IN CNAME .
