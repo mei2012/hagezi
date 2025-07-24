@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-OPPO-REALME-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753261799 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753348204 12h 15m 3w 3h
 ads-bdapi-my.heytapmobile.com IN CNAME .
 *.ads-bdapi-my.heytapmobile.com IN CNAME .
 ads-bdapi-ph.heytapmobile.com IN CNAME .
@@ -201,6 +201,10 @@ crypto-dsf-us.allawnos.com IN CNAME .
 *.crypto-dsf-us.allawnos.com IN CNAME .
 dc-stat-in.heytapmobile.com IN CNAME .
 *.dc-stat-in.heytapmobile.com IN CNAME .
+dcintl.push.heytapmobi.com IN CNAME .
+*.dcintl.push.heytapmobi.com IN CNAME .
+device-ups.push.heytapmobi.com IN CNAME .
+*.device-ups.push.heytapmobi.com IN CNAME .
 dhfs-id.heytapimage.com IN CNAME .
 *.dhfs-id.heytapimage.com IN CNAME .
 dhfs-id.oppomobile.com IN CNAME .
@@ -273,12 +277,6 @@ guif.coloros.com IN CNAME .
 *.guif.coloros.com IN CNAME .
 h4g3z1-native.oppo-realme.web.app IN CNAME .
 *.h4g3z1-native.oppo-realme.web.app IN CNAME .
-httpdns-euex-push.heytapmobile.com IN CNAME .
-*.httpdns-euex-push.heytapmobile.com IN CNAME .
-httpdns-ocloud.heytapmobile.com IN CNAME .
-*.httpdns-ocloud.heytapmobile.com IN CNAME .
-httpdns-push.heytapmobile.com IN CNAME .
-*.httpdns-push.heytapmobile.com IN CNAME .
 i-cn01a.ocloud.heytapmobi.com IN CNAME .
 *.i-cn01a.ocloud.heytapmobi.com IN CNAME .
 i-in.browser.heytapmobile.com IN CNAME .
@@ -307,6 +305,8 @@ icota-service-eu.allawnos.com IN CNAME .
 *.icota-service-eu.allawnos.com IN CNAME .
 icota-service-in.allawnos.com IN CNAME .
 *.icota-service-in.allawnos.com IN CNAME .
+id.push.heytapmobi.com IN CNAME .
+*.id.push.heytapmobi.com IN CNAME .
 iflow-in.browser.heytapmobile.com IN CNAME .
 *.iflow-in.browser.heytapmobile.com IN CNAME .
 iflow-sg.browser.heytapmobile.com IN CNAME .
@@ -633,8 +633,6 @@ predragate.dc.oppomobile.com IN CNAME .
 *.predragate.dc.oppomobile.com IN CNAME .
 push-dc-us.heytapmobile.com IN CNAME .
 *.push-dc-us.heytapmobile.com IN CNAME .
-push.heytapmobi.com IN CNAME .
-*.push.heytapmobi.com IN CNAME .
 push.heytapmobile.com IN CNAME .
 *.push.heytapmobile.com IN CNAME .
 report-eu.uc.heytapmobile.com IN CNAME .
@@ -707,6 +705,8 @@ ums-rum-global.heytapimage.com IN CNAME .
 *.ums-rum-global.heytapimage.com IN CNAME .
 ums-telemetry-cn.heytapmobi.com IN CNAME .
 *.ums-telemetry-cn.heytapmobi.com IN CNAME .
+userprofile.push.heytapmobi.com IN CNAME .
+*.userprofile.push.heytapmobi.com IN CNAME .
 wallpaper-service-sg.allawnos.com IN CNAME .
 *.wallpaper-service-sg.allawnos.com IN CNAME .
 zen-core-fr.allawnos.com IN CNAME .
