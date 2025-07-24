@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753261661 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753348050 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -379,6 +379,8 @@ aruacfilmes.com.br IN CNAME .
 *.aruacfilmes.com.br IN CNAME .
 asiatorrent.ddns.net IN CNAME .
 *.asiatorrent.ddns.net IN CNAME .
+asiatorrent.giize.com IN CNAME .
+*.asiatorrent.giize.com IN CNAME .
 asmr-200.com IN CNAME .
 *.asmr-200.com IN CNAME .
 asmr-300.com IN CNAME .
@@ -689,8 +691,6 @@ cn.pcfreetime.com IN CNAME .
 *.cn.pcfreetime.com IN CNAME .
 code2chicken.nl IN CNAME .
 *.code2chicken.nl IN CNAME .
-codelist.cc IN CNAME .
-*.codelist.cc IN CNAME .
 collectionchamber.blogspot.com IN CNAME .
 *.collectionchamber.blogspot.com IN CNAME .
 comicaso.space IN CNAME .
@@ -1819,8 +1819,6 @@ motchill.cm IN CNAME .
 *.motchill.cm IN CNAME .
 movie-web-me.vercel.app IN CNAME .
 *.movie-web-me.vercel.app IN CNAME .
-moviehdfree.net IN CNAME .
-*.moviehdfree.net IN CNAME .
 moviekids.tv IN CNAME .
 *.moviekids.tv IN CNAME .
 movielair.cc IN CNAME .
@@ -2033,8 +2031,6 @@ online-life.ru IN CNAME .
 *.online-life.ru IN CNAME .
 onlinekora-tv.com IN CNAME .
 *.onlinekora-tv.com IN CNAME .
-onstream.so IN CNAME .
-*.onstream.so IN CNAME .
 oomoye.me IN CNAME .
 *.oomoye.me IN CNAME .
 open-v6.demonoid.ch IN CNAME .
@@ -2471,8 +2467,6 @@ serialkeyz.wordpress.com IN CNAME .
 *.serialkeyz.wordpress.com IN CNAME .
 serienstream.to IN CNAME .
 *.serienstream.to IN CNAME .
-series9mx.pro IN CNAME .
-*.series9mx.pro IN CNAME .
 seriesonlinehd.net IN CNAME .
 *.seriesonlinehd.net IN CNAME .
 seriezloaded.com.ng IN CNAME .
@@ -3813,8 +3807,6 @@ zer0day.ch IN CNAME .
 *.zer0day.ch IN CNAME .
 zerowing.idsoftware.com IN CNAME .
 *.zerowing.idsoftware.com IN CNAME .
-zipcomic.com IN CNAME .
-*.zipcomic.com IN CNAME .
 ziperto.com IN CNAME .
 *.ziperto.com IN CNAME .
 zippyshare.com IN CNAME .
