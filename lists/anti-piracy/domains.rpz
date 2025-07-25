@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753348050 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753434446 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -825,14 +825,10 @@ dle-news.ru IN CNAME .
 *.dle-news.ru IN CNAME .
 dler.org IN CNAME .
 *.dler.org IN CNAME .
-dn42.smrsh.net IN CNAME .
-*.dn42.smrsh.net IN CNAME .
 docer.pl IN CNAME .
 *.docer.pl IN CNAME .
 docker-tracker-production.up.railway.app IN CNAME .
 *.docker-tracker-production.up.railway.app IN CNAME .
-docuwiki.net IN CNAME .
-*.docuwiki.net IN CNAME .
 dodear.com IN CNAME .
 *.dodear.com IN CNAME .
 dodi-repacks.site IN CNAME .
@@ -2333,8 +2329,6 @@ rioctg.blogspot.com IN CNAME .
 *.rioctg.blogspot.com IN CNAME .
 rivestream.netlify.app IN CNAME .
 *.rivestream.netlify.app IN CNAME .
-rivestream.org IN CNAME .
-*.rivestream.org IN CNAME .
 rlsbb.cc IN CNAME .
 *.rlsbb.cc IN CNAME .
 rlsbb.ru IN CNAME .
@@ -2499,8 +2493,6 @@ share.dmhy.org IN CNAME .
 *.share.dmhy.org IN CNAME .
 share.hkg-fansub.info IN CNAME .
 *.share.hkg-fansub.info IN CNAME .
-sharetv.com IN CNAME .
-*.sharetv.com IN CNAME .
 shikimori.one IN CNAME .
 *.shikimori.one IN CNAME .
 showbox.media IN CNAME .
@@ -2921,8 +2913,6 @@ torrentoyunindir.com IN CNAME .
 *.torrentoyunindir.com IN CNAME .
 torrentquest.com IN CNAME .
 *.torrentquest.com IN CNAME .
-torrentreactor.net IN CNAME .
-*.torrentreactor.net IN CNAME .
 torrents-game.net IN CNAME .
 *.torrents-game.net IN CNAME .
 torrents-time.com IN CNAME .
