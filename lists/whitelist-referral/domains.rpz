@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753434998 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753521370 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -89,8 +89,6 @@ admarkt.kleinanzeigen.de IN CNAME .
 *.admarkt.kleinanzeigen.de IN CNAME .
 adobetarget.data.adobedc.net IN CNAME .
 *.adobetarget.data.adobedc.net IN CNAME .
-adorama.rfvk.net IN CNAME .
-*.adorama.rfvk.net IN CNAME .
 ads.revjet.com IN CNAME .
 *.ads.revjet.com IN CNAME .
 adscendmedia.com IN CNAME .
