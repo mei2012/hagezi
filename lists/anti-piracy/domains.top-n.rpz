@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753434446 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753520841 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -639,8 +639,6 @@ cda-hd.cc IN CNAME .
 *.cda-hd.cc IN CNAME .
 cdie.cdie.free.fr IN CNAME .
 *.cdie.cdie.free.fr IN CNAME .
-cdnstreame.net IN CNAME .
-*.cdnstreame.net IN CNAME .
 cdromance.org IN CNAME .
 *.cdromance.org IN CNAME .
 cernet-tracker.appspot.com IN CNAME .
@@ -1157,6 +1155,8 @@ game3rb.com IN CNAME .
 *.game3rb.com IN CNAME .
 gamecopyworld.com IN CNAME .
 *.gamecopyworld.com IN CNAME .
+gamedrive.org IN CNAME .
+*.gamedrive.org IN CNAME .
 gamedva.com IN CNAME .
 *.gamedva.com IN CNAME .
 gamefabrique.com IN CNAME .
@@ -2139,8 +2139,6 @@ planetdl.0fees.net IN CNAME .
 *.planetdl.0fees.net IN CNAME .
 platinmods.com IN CNAME .
 *.platinmods.com IN CNAME .
-playhydrax.com IN CNAME .
-*.playhydrax.com IN CNAME .
 playmods.net IN CNAME .
 *.playmods.net IN CNAME .
 plixi.com IN CNAME .
