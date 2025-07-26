@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753261661 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753434446 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -379,6 +379,8 @@ aruacfilmes.com.br IN CNAME .
 *.aruacfilmes.com.br IN CNAME .
 asiatorrent.ddns.net IN CNAME .
 *.asiatorrent.ddns.net IN CNAME .
+asiatorrent.giize.com IN CNAME .
+*.asiatorrent.giize.com IN CNAME .
 asmr-200.com IN CNAME .
 *.asmr-200.com IN CNAME .
 asmr-300.com IN CNAME .
@@ -689,8 +691,6 @@ cn.pcfreetime.com IN CNAME .
 *.cn.pcfreetime.com IN CNAME .
 code2chicken.nl IN CNAME .
 *.code2chicken.nl IN CNAME .
-codelist.cc IN CNAME .
-*.codelist.cc IN CNAME .
 collectionchamber.blogspot.com IN CNAME .
 *.collectionchamber.blogspot.com IN CNAME .
 comicaso.space IN CNAME .
@@ -825,14 +825,10 @@ dle-news.ru IN CNAME .
 *.dle-news.ru IN CNAME .
 dler.org IN CNAME .
 *.dler.org IN CNAME .
-dn42.smrsh.net IN CNAME .
-*.dn42.smrsh.net IN CNAME .
 docer.pl IN CNAME .
 *.docer.pl IN CNAME .
 docker-tracker-production.up.railway.app IN CNAME .
 *.docker-tracker-production.up.railway.app IN CNAME .
-docuwiki.net IN CNAME .
-*.docuwiki.net IN CNAME .
 dodear.com IN CNAME .
 *.dodear.com IN CNAME .
 dodi-repacks.site IN CNAME .
@@ -1819,8 +1815,6 @@ motchill.cm IN CNAME .
 *.motchill.cm IN CNAME .
 movie-web-me.vercel.app IN CNAME .
 *.movie-web-me.vercel.app IN CNAME .
-moviehdfree.net IN CNAME .
-*.moviehdfree.net IN CNAME .
 moviekids.tv IN CNAME .
 *.moviekids.tv IN CNAME .
 movielair.cc IN CNAME .
@@ -2033,8 +2027,6 @@ online-life.ru IN CNAME .
 *.online-life.ru IN CNAME .
 onlinekora-tv.com IN CNAME .
 *.onlinekora-tv.com IN CNAME .
-onstream.so IN CNAME .
-*.onstream.so IN CNAME .
 oomoye.me IN CNAME .
 *.oomoye.me IN CNAME .
 open-v6.demonoid.ch IN CNAME .
@@ -2337,8 +2329,6 @@ rioctg.blogspot.com IN CNAME .
 *.rioctg.blogspot.com IN CNAME .
 rivestream.netlify.app IN CNAME .
 *.rivestream.netlify.app IN CNAME .
-rivestream.org IN CNAME .
-*.rivestream.org IN CNAME .
 rlsbb.cc IN CNAME .
 *.rlsbb.cc IN CNAME .
 rlsbb.ru IN CNAME .
@@ -2471,8 +2461,6 @@ serialkeyz.wordpress.com IN CNAME .
 *.serialkeyz.wordpress.com IN CNAME .
 serienstream.to IN CNAME .
 *.serienstream.to IN CNAME .
-series9mx.pro IN CNAME .
-*.series9mx.pro IN CNAME .
 seriesonlinehd.net IN CNAME .
 *.seriesonlinehd.net IN CNAME .
 seriezloaded.com.ng IN CNAME .
@@ -2505,8 +2493,6 @@ share.dmhy.org IN CNAME .
 *.share.dmhy.org IN CNAME .
 share.hkg-fansub.info IN CNAME .
 *.share.hkg-fansub.info IN CNAME .
-sharetv.com IN CNAME .
-*.sharetv.com IN CNAME .
 shikimori.one IN CNAME .
 *.shikimori.one IN CNAME .
 showbox.media IN CNAME .
@@ -2927,8 +2913,6 @@ torrentoyunindir.com IN CNAME .
 *.torrentoyunindir.com IN CNAME .
 torrentquest.com IN CNAME .
 *.torrentquest.com IN CNAME .
-torrentreactor.net IN CNAME .
-*.torrentreactor.net IN CNAME .
 torrents-game.net IN CNAME .
 *.torrents-game.net IN CNAME .
 torrents-time.com IN CNAME .
@@ -3813,8 +3797,6 @@ zer0day.ch IN CNAME .
 *.zer0day.ch IN CNAME .
 zerowing.idsoftware.com IN CNAME .
 *.zerowing.idsoftware.com IN CNAME .
-zipcomic.com IN CNAME .
-*.zipcomic.com IN CNAME .
 ziperto.com IN CNAME .
 *.ziperto.com IN CNAME .
 zippyshare.com IN CNAME .
