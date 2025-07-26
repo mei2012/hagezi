@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753434994 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753521365 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -805,6 +805,8 @@ yhoo.it IN CNAME .
 *.yhoo.it IN CNAME .
 yourls.org IN CNAME .
 *.yourls.org IN CNAME .
+yun.ir IN CNAME .
+*.yun.ir IN CNAME .
 zap.buzz IN CNAME .
 *.zap.buzz IN CNAME .
 zeep.ly IN CNAME .
