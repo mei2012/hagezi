@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753520854 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753607260 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -1299,8 +1299,6 @@ dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
 dns-ovh.panszelescik.pl IN CNAME .
 *.dns-ovh.panszelescik.pl IN CNAME .
-dns-tunnel-check.googlezip.net IN CNAME .
-*.dns-tunnel-check.googlezip.net IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
 *.dns-unfiltered.adguard.com IN CNAME .
 dns.233py.com.cdn.cloudflare.net IN CNAME .
@@ -2043,6 +2041,8 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
@@ -3133,8 +3133,6 @@ waw01.dnscry.pt IN CNAME .
 *.waw01.dnscry.pt IN CNAME .
 waw02.dnscry.pt IN CNAME .
 *.waw02.dnscry.pt IN CNAME .
-webproxy.com.de IN CNAME .
-*.webproxy.com.de IN CNAME .
 webproxy.uk.com IN CNAME .
 *.webproxy.uk.com IN CNAME .
 webproxy.us.com IN CNAME .
