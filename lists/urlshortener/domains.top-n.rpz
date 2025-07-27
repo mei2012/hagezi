@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753521365 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753607837 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -165,6 +165,8 @@ dw.com IN CNAME .
 *.dw.com IN CNAME .
 dy.fi IN CNAME .
 *.dy.fi IN CNAME .
+earn4link.in IN CNAME .
+*.earn4link.in IN CNAME .
 edl.io IN CNAME .
 *.edl.io IN CNAME .
 eepurl.com IN CNAME .
