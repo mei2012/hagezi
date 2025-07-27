@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753520858 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753607264 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -43,6 +43,8 @@ authorizeddns.org IN CNAME .
 *.authorizeddns.org IN CNAME .
 b0tnet.com IN CNAME .
 *.b0tnet.com IN CNAME .
+better-than.tv IN CNAME .
+*.better-than.tv IN CNAME .
 biz.st IN CNAME .
 *.biz.st IN CNAME .
 blogdns.com IN CNAME .
@@ -225,8 +227,6 @@ dvrlists.com IN CNAME .
 *.dvrlists.com IN CNAME .
 dyn-access.net IN CNAME .
 *.dyn-access.net IN CNAME .
-dyn-o-saur.com IN CNAME .
-*.dyn-o-saur.com IN CNAME .
 dyn.addr.tools IN CNAME .
 *.dyn.addr.tools IN CNAME .
 dyn.columbia.edu IN CNAME .
