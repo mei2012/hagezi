@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753607260 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753693650 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -659,6 +659,8 @@ ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com IN CNAME .
 *.ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com IN CNAME .
 adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
+adbox-v8.srv64.de IN CNAME .
+*.adbox-v8.srv64.de IN CNAME .
 addition.chillyparrotmath.cloudns.ch IN CNAME .
 *.addition.chillyparrotmath.cloudns.ch IN CNAME .
 adguard-dns.com IN CNAME .
@@ -751,6 +753,8 @@ aqua.is.my.waifu.cz IN CNAME .
 *.aqua.is.my.waifu.cz IN CNAME .
 arashi.eu.org IN CNAME .
 *.arashi.eu.org IN CNAME .
+arashi.net.eu.org IN CNAME .
+*.arashi.net.eu.org IN CNAME .
 arcai.com IN CNAME .
 *.arcai.com IN CNAME .
 area51.mywire.org IN CNAME .
@@ -1981,8 +1985,6 @@ fwgw.orangepipc.mywire.org IN CNAME .
 *.fwgw.orangepipc.mywire.org IN CNAME .
 galileo.math.unipd.it IN CNAME .
 *.galileo.math.unipd.it IN CNAME .
-gb-cov-w-f-1.nashkan.net IN CNAME .
-*.gb-cov-w-f-1.nashkan.net IN CNAME .
 gb-cov-w-p-1.nashkan.net IN CNAME .
 *.gb-cov-w-p-1.nashkan.net IN CNAME .
 gb-lon-w-f-1.nashkan.net IN CNAME .
@@ -2041,8 +2043,6 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
