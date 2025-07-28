@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753434450 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753607251 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -71,8 +71,6 @@ aqua.is.my.waifu.cz IN CNAME .
 *.aqua.is.my.waifu.cz IN CNAME .
 arashi.eu.org IN CNAME .
 *.arashi.eu.org IN CNAME .
-arashi.net.eu.org IN CNAME .
-*.arashi.net.eu.org IN CNAME .
 area51.mywire.org IN CNAME .
 *.area51.mywire.org IN CNAME .
 armorrush.eu.org IN CNAME .
