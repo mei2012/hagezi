@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753607246 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753693640 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -785,6 +785,8 @@ demonoid.ph IN CNAME .
 *.demonoid.ph IN CNAME .
 demonoid.pw IN CNAME .
 *.demonoid.pw IN CNAME .
+demozoo.org IN CNAME .
+*.demozoo.org IN CNAME .
 deph.edwardk.info IN CNAME .
 *.deph.edwardk.info IN CNAME .
 devil-torrents.pl IN CNAME .
@@ -1875,6 +1877,8 @@ nbabite.com IN CNAME .
 *.nbabite.com IN CNAME .
 nepu.to IN CNAME .
 *.nepu.to IN CNAME .
+net2025.cc IN CNAME .
+*.net2025.cc IN CNAME .
 netmatrixbd.com IN CNAME .
 *.netmatrixbd.com IN CNAME .
 netmovies.to IN CNAME .
@@ -2173,8 +2177,6 @@ pussytorrents.org IN CNAME .
 *.pussytorrents.org IN CNAME .
 putlocker.pe IN CNAME .
 *.putlocker.pe IN CNAME .
-putlocker.vip IN CNAME .
-*.putlocker.vip IN CNAME .
 pybittrack.retiolus.net IN CNAME .
 *.pybittrack.retiolus.net IN CNAME .
 qbittorrent.org IN CNAME .
@@ -2297,6 +2299,8 @@ rioctg.blogspot.com IN CNAME .
 *.rioctg.blogspot.com IN CNAME .
 rivestream.netlify.app IN CNAME .
 *.rivestream.netlify.app IN CNAME .
+rivestream.org IN CNAME .
+*.rivestream.org IN CNAME .
 rlsbb.cc IN CNAME .
 *.rlsbb.cc IN CNAME .
 rlsbb.ru IN CNAME .
@@ -2435,8 +2439,6 @@ sertico.wordpress.com IN CNAME .
 *.sertico.wordpress.com IN CNAME .
 servandroidkino.ru IN CNAME .
 *.servandroidkino.ru IN CNAME .
-seuedu.online IN CNAME .
-*.seuedu.online IN CNAME .
 sexinsex.net IN CNAME .
 *.sexinsex.net IN CNAME .
 sflix.to IN CNAME .
@@ -2445,8 +2447,6 @@ sflix.tube IN CNAME .
 *.sflix.tube IN CNAME .
 sflix2.to IN CNAME .
 *.sflix2.to IN CNAME .
-sgnilo.wiki IN CNAME .
-*.sgnilo.wiki IN CNAME .
 shadowshq.yi.org IN CNAME .
 *.shadowshq.yi.org IN CNAME .
 shanaproject.com IN CNAME .
