@@ -2,7 +2,7 @@ name: Sync with Upstream Repository
 
 on:
   schedule:
-    - cron: '30 6 */5 * *'
+    - cron: '5 7 */3 * *'
   workflow_dispatch:
 
 jobs:
