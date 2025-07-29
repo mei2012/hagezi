@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753694169 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753780550 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -155,8 +155,6 @@ download.fxsound.com IN CNAME .
 *.download.fxsound.com IN CNAME .
 droplr.net IN CNAME .
 *.droplr.net IN CNAME .
-dstats.net IN CNAME .
-*.dstats.net IN CNAME .
 dtdg.co IN CNAME .
 *.dtdg.co IN CNAME .
 dub.sh IN CNAME .
@@ -233,8 +231,6 @@ go.dbs.com IN CNAME .
 *.go.dbs.com IN CNAME .
 go.edh.tw IN CNAME .
 *.go.edh.tw IN CNAME .
-go.egi.eu IN CNAME .
-*.go.egi.eu IN CNAME .
 go.gcash.com IN CNAME .
 *.go.gcash.com IN CNAME .
 go.id.me IN CNAME .
