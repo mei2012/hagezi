@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753693640 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753780044 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -61,8 +61,6 @@ $TTL 3600
 *.1tamilmv.pet IN CNAME .
 2.tracker.eu.org IN CNAME .
 *.2.tracker.eu.org IN CNAME .
-22-hd.com IN CNAME .
-*.22-hd.com IN CNAME .
 22jumpstreetonlinenow.comunidades.net IN CNAME .
 *.22jumpstreetonlinenow.comunidades.net IN CNAME .
 24-download.com IN CNAME .
@@ -441,14 +439,14 @@ bddreamnet.blogspot.com IN CNAME .
 *.bddreamnet.blogspot.com IN CNAME .
 bemaniso.ws IN CNAME .
 *.bemaniso.ws IN CNAME .
-ben.kerbertools.xyz IN CNAME .
-*.ben.kerbertools.xyz IN CNAME .
 benouworldtrip.fr IN CNAME .
 *.benouworldtrip.fr IN CNAME .
 best4stremio.space IN CNAME .
 *.best4stremio.space IN CNAME .
 bestoflinks.synology.me IN CNAME .
 *.bestoflinks.synology.me IN CNAME .
+bibliotik.me IN CNAME .
+*.bibliotik.me IN CNAME .
 bigeyes2015-1watchonline.tumblr.com IN CNAME .
 *.bigeyes2015-1watchonline.tumblr.com IN CNAME .
 bigfangroup.org IN CNAME .
@@ -563,6 +561,8 @@ bt.servequake.com IN CNAME .
 *.bt.servequake.com IN CNAME .
 bt.xbox-sky.com IN CNAME .
 *.bt.xbox-sky.com IN CNAME .
+bt.zlofenix.org IN CNAME .
+*.bt.zlofenix.org IN CNAME .
 bt02.nnm-club.cc IN CNAME .
 *.bt02.nnm-club.cc IN CNAME .
 bt1.the9.com IN CNAME .
@@ -927,6 +927,8 @@ eneyida.tv IN CNAME .
 *.eneyida.tv IN CNAME .
 engplus.ru IN CNAME .
 *.engplus.ru IN CNAME .
+epforums.org IN CNAME .
+*.epforums.org IN CNAME .
 epider.me IN CNAME .
 *.epider.me IN CNAME .
 episodes-tv.com IN CNAME .
@@ -977,8 +979,6 @@ eztv.yt IN CNAME .
 *.eztv.yt IN CNAME .
 eztvx.to IN CNAME .
 *.eztvx.to IN CNAME .
-f1box.me IN CNAME .
-*.f1box.me IN CNAME .
 f2movies.to IN CNAME .
 *.f2movies.to IN CNAME .
 f4cineplex.myftp.org IN CNAME .
@@ -1791,8 +1791,6 @@ montreal.nyap2p.com IN CNAME .
 *.montreal.nyap2p.com IN CNAME .
 moonburrow.club IN CNAME .
 *.moonburrow.club IN CNAME .
-motchill.cm IN CNAME .
-*.motchill.cm IN CNAME .
 movie-web-me.vercel.app IN CNAME .
 *.movie-web-me.vercel.app IN CNAME .
 moviekids.tv IN CNAME .
@@ -1931,6 +1929,8 @@ northmenavikingsaga2015-1watchon.tumblr.com IN CNAME .
 *.northmenavikingsaga2015-1watchon.tumblr.com IN CNAME .
 novamovie.net IN CNAME .
 *.novamovie.net IN CNAME .
+novelas360.com IN CNAME .
+*.novelas360.com IN CNAME .
 noxx.to IN CNAME .
 *.noxx.to IN CNAME .
 npavcrack.blogspot.in IN CNAME .
@@ -2377,6 +2377,8 @@ save-free.com IN CNAME .
 *.save-free.com IN CNAME .
 save.tv IN CNAME .
 *.save.tv IN CNAME .
+savefrom.bz IN CNAME .
+*.savefrom.bz IN CNAME .
 sbenny.com IN CNAME .
 *.sbenny.com IN CNAME .
 scene-rls.net IN CNAME .
@@ -3517,6 +3519,8 @@ videq.dev IN CNAME .
 *.videq.dev IN CNAME .
 vider.info IN CNAME .
 *.vider.info IN CNAME .
+vidics.to IN CNAME .
+*.vidics.to IN CNAME .
 vidmate.net IN CNAME .
 *.vidmate.net IN CNAME .
 vidmateapp.com IN CNAME .
