@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753693654 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753780062 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -77,6 +77,8 @@ charter.com IN CNAME .
 *.charter.com IN CNAME .
 chickenkiller.com IN CNAME .
 *.chickenkiller.com IN CNAME .
+ciscofreak.com IN CNAME .
+*.ciscofreak.com IN CNAME .
 cleansite.us IN CNAME .
 *.cleansite.us IN CNAME .
 cloudns.asia IN CNAME .
@@ -347,6 +349,8 @@ freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
+freedynamicdns.org IN CNAME .
+*.freedynamicdns.org IN CNAME .
 freemyip.com IN CNAME .
 *.freemyip.com IN CNAME .
 freetcp.com IN CNAME .
@@ -821,8 +825,6 @@ venez.fr IN CNAME .
 *.venez.fr IN CNAME .
 viewdns.net IN CNAME .
 *.viewdns.net IN CNAME .
-vizvaz.com IN CNAME .
-*.vizvaz.com IN CNAME .
 webhop.biz IN CNAME .
 *.webhop.biz IN CNAME .
 webhop.me IN CNAME .
