@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753693650 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753780057 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -251,8 +251,6 @@ $TTL 3600
 *.3d-earthspacelearncom.vercel.app IN CNAME .
 3d5012d580d29efcf056d347832a4f75754e7040-m.proxy1.startpage.com IN CNAME .
 *.3d5012d580d29efcf056d347832a4f75754e7040-m.proxy1.startpage.com IN CNAME .
-3dns.eu IN CNAME .
-*.3dns.eu IN CNAME .
 401-0506.b-cdn.net IN CNAME .
 *.401-0506.b-cdn.net IN CNAME .
 401-0507.b-cdn.net IN CNAME .
@@ -2043,6 +2041,8 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
