@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753780113 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753866502 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -813,8 +813,6 @@ forumotion.net IN CNAME .
 *.forumotion.net IN CNAME .
 forumpro.fr IN CNAME .
 *.forumpro.fr IN CNAME .
-forumsactifs.com IN CNAME .
-*.forumsactifs.com IN CNAME .
 fotosdefrases.com IN CNAME .
 *.fotosdefrases.com IN CNAME .
 fr.nf IN CNAME .
@@ -1497,6 +1495,8 @@ vidublog.com IN CNAME .
 *.vidublog.com IN CNAME .
 vip-blog.com IN CNAME .
 *.vip-blog.com IN CNAME .
+vmn.net IN CNAME .
+*.vmn.net IN CNAME .
 w3spaces.com IN CNAME .
 *.w3spaces.com IN CNAME .
 wallinside.com IN CNAME .
