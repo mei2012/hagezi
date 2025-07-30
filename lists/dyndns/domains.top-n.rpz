@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753780062 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753866457 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -87,6 +87,8 @@ cloudns.be IN CNAME .
 *.cloudns.be IN CNAME .
 cloudns.biz IN CNAME .
 *.cloudns.biz IN CNAME .
+cloudns.cc IN CNAME .
+*.cloudns.cc IN CNAME .
 cloudns.ch IN CNAME .
 *.cloudns.ch IN CNAME .
 cloudns.cl IN CNAME .
@@ -249,6 +251,8 @@ dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
 dynamic-m.com IN CNAME .
 *.dynamic-m.com IN CNAME .
+dynamic.domains IN CNAME .
+*.dynamic.domains IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-at-work.com IN CNAME .
@@ -385,8 +389,6 @@ from-nm.com IN CNAME .
 *.from-nm.com IN CNAME .
 from-ok.com IN CNAME .
 *.from-ok.com IN CNAME .
-from-or.com IN CNAME .
-*.from-or.com IN CNAME .
 from-pr.com IN CNAME .
 *.from-pr.com IN CNAME .
 from-sc.com IN CNAME .
@@ -407,6 +409,8 @@ giize.com IN CNAME .
 *.giize.com IN CNAME .
 gleeze.com IN CNAME .
 *.gleeze.com IN CNAME .
+got-game.org IN CNAME .
+*.got-game.org IN CNAME .
 gotdns.ch IN CNAME .
 *.gotdns.ch IN CNAME .
 gotdns.com IN CNAME .
@@ -607,6 +611,8 @@ mypop3.net IN CNAME .
 *.mypop3.net IN CNAME .
 mypsx.net IN CNAME .
 *.mypsx.net IN CNAME .
+myq-see.com IN CNAME .
+*.myq-see.com IN CNAME .
 mysynology.net IN CNAME .
 *.mysynology.net IN CNAME .
 myvnc.com IN CNAME .
@@ -661,6 +667,8 @@ nsupdate.info IN CNAME .
 *.nsupdate.info IN CNAME .
 ocry.com IN CNAME .
 *.ocry.com IN CNAME .
+ods.org IN CNAME .
+*.ods.org IN CNAME .
 office-on-the.net IN CNAME .
 *.office-on-the.net IN CNAME .
 on-the-web.tv IN CNAME .
@@ -825,6 +833,8 @@ venez.fr IN CNAME .
 *.venez.fr IN CNAME .
 viewdns.net IN CNAME .
 *.viewdns.net IN CNAME .
+vpn64.de IN CNAME .
+*.vpn64.de IN CNAME .
 webhop.biz IN CNAME .
 *.webhop.biz IN CNAME .
 webhop.me IN CNAME .
