@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753693650 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753866453 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -251,8 +251,6 @@ $TTL 3600
 *.3d-earthspacelearncom.vercel.app IN CNAME .
 3d5012d580d29efcf056d347832a4f75754e7040-m.proxy1.startpage.com IN CNAME .
 *.3d5012d580d29efcf056d347832a4f75754e7040-m.proxy1.startpage.com IN CNAME .
-3dns.eu IN CNAME .
-*.3dns.eu IN CNAME .
 401-0506.b-cdn.net IN CNAME .
 *.401-0506.b-cdn.net IN CNAME .
 401-0507.b-cdn.net IN CNAME .
@@ -1423,8 +1421,6 @@ dns.smartguard.io IN CNAME .
 *.dns.smartguard.io IN CNAME .
 dns.surfsharkdns.com IN CNAME .
 *.dns.surfsharkdns.com IN CNAME .
-dns.syaifullah.com IN CNAME .
-*.dns.syaifullah.com IN CNAME .
 dns.t-ipnet.de IN CNAME .
 *.dns.t-ipnet.de IN CNAME .
 dns.telekom.de IN CNAME .
@@ -2185,8 +2181,6 @@ janakibeby.vercel.app IN CNAME .
 *.janakibeby.vercel.app IN CNAME .
 janu23.vercel.app IN CNAME .
 *.janu23.vercel.app IN CNAME .
-janvet.website.pl IN CNAME .
-*.janvet.website.pl IN CNAME .
 jcmswebsiteunblocker.soon.it IN CNAME .
 *.jcmswebsiteunblocker.soon.it IN CNAME .
 jhb01.dnscry.pt IN CNAME .
