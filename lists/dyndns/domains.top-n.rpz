@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753866457 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753952861 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -251,8 +251,6 @@ dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
 dynamic-m.com IN CNAME .
 *.dynamic-m.com IN CNAME .
-dynamic.domains IN CNAME .
-*.dynamic.domains IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-at-work.com IN CNAME .
@@ -325,6 +323,8 @@ eatuo.com IN CNAME .
 *.eatuo.com IN CNAME .
 edns.biz IN CNAME .
 *.edns.biz IN CNAME .
+endofinternet.net IN CNAME .
+*.endofinternet.net IN CNAME .
 entrydns.net IN CNAME .
 *.entrydns.net IN CNAME .
 epac.to IN CNAME .
@@ -847,6 +847,8 @@ webredirect.org IN CNAME .
 *.webredirect.org IN CNAME .
 winco.com.br IN CNAME .
 *.winco.com.br IN CNAME .
+winconnection.net IN CNAME .
+*.winconnection.net IN CNAME .
 work.gd IN CNAME .
 *.work.gd IN CNAME .
 workisboring.com IN CNAME .
