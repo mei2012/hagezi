@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753866502 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753952918 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -17,8 +17,6 @@ $TTL 3600
 *.100ws.com IN CNAME .
 110mb.com IN CNAME .
 *.110mb.com IN CNAME .
-125mb.com IN CNAME .
-*.125mb.com IN CNAME .
 126.com IN CNAME .
 *.126.com IN CNAME .
 150m.com IN CNAME .
@@ -813,6 +811,8 @@ forumotion.net IN CNAME .
 *.forumotion.net IN CNAME .
 forumpro.fr IN CNAME .
 *.forumpro.fr IN CNAME .
+forumsactifs.com IN CNAME .
+*.forumsactifs.com IN CNAME .
 fotosdefrases.com IN CNAME .
 *.fotosdefrases.com IN CNAME .
 fr.nf IN CNAME .
@@ -831,8 +831,6 @@ freehostia.com IN CNAME .
 *.freehostia.com IN CNAME .
 freehosting.com IN CNAME .
 *.freehosting.com IN CNAME .
-freehostingeu.com IN CNAME .
-*.freehostingeu.com IN CNAME .
 freeoda.com IN CNAME .
 *.freeoda.com IN CNAME .
 freeservers.com IN CNAME .
@@ -957,8 +955,6 @@ it-security-group.com IN CNAME .
 *.it-security-group.com IN CNAME .
 it-support-group.com IN CNAME .
 *.it-support-group.com IN CNAME .
-it.gg IN CNAME .
-*.it.gg IN CNAME .
 itgo.com IN CNAME .
 *.itgo.com IN CNAME .
 ivasdesign.com IN CNAME .
