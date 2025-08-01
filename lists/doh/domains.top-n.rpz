@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753952848 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754039255 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -235,8 +235,6 @@ dns.ha-dvin.pp.ua IN CNAME .
 *.dns.ha-dvin.pp.ua IN CNAME .
 dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
-dns.hoody.com IN CNAME .
-*.dns.hoody.com IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
 dns.islandnet.com IN CNAME .
@@ -883,8 +881,6 @@ sundalandia.pp.ua IN CNAME .
 *.sundalandia.pp.ua IN CNAME .
 switch.ch IN CNAME .
 *.switch.ch IN CNAME .
-syd01.dnscry.pt IN CNAME .
-*.syd01.dnscry.pt IN CNAME .
 syd02.dnscry.pt IN CNAME .
 *.syd02.dnscry.pt IN CNAME .
 tbs01.dnscry.pt IN CNAME .
