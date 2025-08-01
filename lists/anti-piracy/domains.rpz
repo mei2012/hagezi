@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753952843 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754039249 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -69,8 +69,6 @@ $TTL 3600
 *.24-hd.com IN CNAME .
 24h.tv IN CNAME .
 *.24h.tv IN CNAME .
-24warez.ru IN CNAME .
-*.24warez.ru IN CNAME .
 2600.com IN CNAME .
 *.2600.com IN CNAME .
 2ix2.com IN CNAME .
@@ -323,6 +321,8 @@ apk-free-full-download.blogspot.com IN CNAME .
 *.apk-free-full-download.blogspot.com IN CNAME .
 apk-free-full-download.blogspot.in IN CNAME .
 *.apk-free-full-download.blogspot.in IN CNAME .
+apkals.com IN CNAME .
+*.apkals.com IN CNAME .
 apkaward.com IN CNAME .
 *.apkaward.com IN CNAME .
 apkdone.com IN CNAME .
@@ -437,8 +437,6 @@ bclearning.top IN CNAME .
 *.bclearning.top IN CNAME .
 bddreamnet.blogspot.com IN CNAME .
 *.bddreamnet.blogspot.com IN CNAME .
-beatrice-raws.org IN CNAME .
-*.beatrice-raws.org IN CNAME .
 bemaniso.ws IN CNAME .
 *.bemaniso.ws IN CNAME .
 benouworldtrip.fr IN CNAME .
@@ -509,8 +507,6 @@ bnbteasytracker.sourceforge.net IN CNAME .
 *.bnbteasytracker.sourceforge.net IN CNAME .
 bnet-bd.com IN CNAME .
 *.bnet-bd.com IN CNAME .
-bobbialbano.com IN CNAME .
-*.bobbialbano.com IN CNAME .
 bollywood.eu.org IN CNAME .
 *.bollywood.eu.org IN CNAME .
 bootytape.com IN CNAME .
@@ -875,8 +871,6 @@ drumkitx.com IN CNAME .
 *.drumkitx.com IN CNAME .
 drunkenslug.com IN CNAME .
 *.drunkenslug.com IN CNAME .
-duboku.co IN CNAME .
-*.duboku.co IN CNAME .
 duboku.fun IN CNAME .
 *.duboku.fun IN CNAME .
 duboku.net IN CNAME .
@@ -1801,6 +1795,8 @@ movielair.cc IN CNAME .
 *.movielair.cc IN CNAME .
 movieorca.com IN CNAME .
 *.movieorca.com IN CNAME .
+movies-d.com IN CNAME .
+*.movies-d.com IN CNAME .
 movies-free.net IN CNAME .
 *.movies-free.net IN CNAME .
 movies.zsw.ca IN CNAME .
@@ -1837,8 +1833,6 @@ muds.fandom.com IN CNAME .
 *.muds.fandom.com IN CNAME .
 multiki.arjlover.net IN CNAME .
 *.multiki.arjlover.net IN CNAME .
-mults.info IN CNAME .
-*.mults.info IN CNAME .
 mv-web.netlify.app IN CNAME .
 *.mv-web.netlify.app IN CNAME .
 mvgroup.org IN CNAME .
@@ -2063,8 +2057,6 @@ overdoss.wordpress.com IN CNAME .
 *.overdoss.wordpress.com IN CNAME .
 oxtorrent.co IN CNAME .
 *.oxtorrent.co IN CNAME .
-p2p.0g.cx IN CNAME .
-*.p2p.0g.cx IN CNAME .
 packages.crunchbangplusplus.org IN CNAME .
 *.packages.crunchbangplusplus.org IN CNAME .
 pahe.ink IN CNAME .
@@ -2105,8 +2097,6 @@ piratebay.live IN CNAME .
 *.piratebay.live IN CNAME .
 piratebay.party IN CNAME .
 *.piratebay.party IN CNAME .
-piratebayorg.net IN CNAME .
-*.piratebayorg.net IN CNAME .
 piratebayproxy.net IN CNAME .
 *.piratebayproxy.net IN CNAME .
 piratebayproxy.pages.dev IN CNAME .
@@ -2783,8 +2773,6 @@ tixati.com IN CNAME .
 *.tixati.com IN CNAME .
 tk.greedland.net IN CNAME .
 *.tk.greedland.net IN CNAME .
-tk.mabo.ltd IN CNAME .
-*.tk.mabo.ltd IN CNAME .
 tk1.trackerservers.com IN CNAME .
 *.tk1.trackerservers.com IN CNAME .
 tk2.greedland.net IN CNAME .
@@ -3289,8 +3277,6 @@ tracker.vanitycore.co IN CNAME .
 *.tracker.vanitycore.co IN CNAME .
 tracker.vectahosting.eu IN CNAME .
 *.tracker.vectahosting.eu IN CNAME .
-tracker.videodrugproject.com IN CNAME .
-*.tracker.videodrugproject.com IN CNAME .
 tracker.vraphim.com IN CNAME .
 *.tracker.vraphim.com IN CNAME .
 tracker.vulnix.sh IN CNAME .
@@ -3553,6 +3539,8 @@ voirdrama.org IN CNAME .
 *.voirdrama.org IN CNAME .
 vojkuhd.com IN CNAME .
 *.vojkuhd.com IN CNAME .
+vost.pw IN CNAME .
+*.vost.pw IN CNAME .
 voxfilmeonline.biz IN CNAME .
 *.voxfilmeonline.biz IN CNAME .
 vpn.flying-datacenter.de IN CNAME .
@@ -3599,8 +3587,6 @@ wassermann.online IN CNAME .
 *.wassermann.online IN CNAME .
 watchmovies.nz IN CNAME .
 *.watchmovies.nz IN CNAME .
-watchseries-online.be IN CNAME .
-*.watchseries-online.be IN CNAME .
 watchseries.bar IN CNAME .
 *.watchseries.bar IN CNAME .
 watchseries.pe IN CNAME .
