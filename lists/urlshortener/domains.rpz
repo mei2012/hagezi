@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753953452 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754039778 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -215,8 +215,6 @@ genie.co.kr IN CNAME .
 *.genie.co.kr IN CNAME .
 geniuslink.com IN CNAME .
 *.geniuslink.com IN CNAME .
-gesit.io IN CNAME .
-*.gesit.io IN CNAME .
 gestyy.com IN CNAME .
 *.gestyy.com IN CNAME .
 get-l.ink IN CNAME .
@@ -447,6 +445,8 @@ nowlinks.net IN CNAME .
 *.nowlinks.net IN CNAME .
 nyti.ms IN CNAME .
 *.nyti.ms IN CNAME .
+offerup.co IN CNAME .
+*.offerup.co IN CNAME .
 okt.to IN CNAME .
 *.okt.to IN CNAME .
 on.bcg.com IN CNAME .
