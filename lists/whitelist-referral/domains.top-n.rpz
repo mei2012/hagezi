@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1753866987 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1753953457 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -793,6 +793,8 @@ events.release.narrativ.com IN CNAME .
 *.events.release.narrativ.com IN CNAME .
 evyy.net IN CNAME .
 *.evyy.net IN CNAME .
+fcd.autoads.asia IN CNAME .
+*.fcd.autoads.asia IN CNAME .
 fi-go.kelkoogroup.net IN CNAME .
 *.fi-go.kelkoogroup.net IN CNAME .
 fr-go.kelkoogroup.net IN CNAME .
@@ -1273,6 +1275,8 @@ rjrpmitab.cc.rs6.net IN CNAME .
 *.rjrpmitab.cc.rs6.net IN CNAME .
 rk6dggnab.cc.rs6.net IN CNAME .
 *.rk6dggnab.cc.rs6.net IN CNAME .
+rkgbvycab.cc.rs6.net IN CNAME .
+*.rkgbvycab.cc.rs6.net IN CNAME .
 rklmqleab.cc.rs6.net IN CNAME .
 *.rklmqleab.cc.rs6.net IN CNAME .
 rkypyqrab.cc.rs6.net IN CNAME .
@@ -1283,6 +1287,8 @@ rmnbcy7ab.cc.rs6.net IN CNAME .
 *.rmnbcy7ab.cc.rs6.net IN CNAME .
 rng7xicab.cc.rs6.net IN CNAME .
 *.rng7xicab.cc.rs6.net IN CNAME .
+rnu9kgcab.cc.rs6.net IN CNAME .
+*.rnu9kgcab.cc.rs6.net IN CNAME .
 rny9z6jab.cc.rs6.net IN CNAME .
 *.rny9z6jab.cc.rs6.net IN CNAME .
 ro-go.kelkoogroup.net IN CNAME .
@@ -1431,6 +1437,8 @@ sdk.us.xtremepush.com IN CNAME .
 *.sdk.us.xtremepush.com IN CNAME .
 se-go.kelkoogroup.net IN CNAME .
 *.se-go.kelkoogroup.net IN CNAME .
+secure-hotel-tracker.com IN CNAME .
+*.secure-hotel-tracker.com IN CNAME .
 secure.everyaction.com IN CNAME .
 *.secure.everyaction.com IN CNAME .
 seek.hosting.exacttarget.com IN CNAME .
