@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039255 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212045 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -277,14 +277,10 @@ dns.rubyfish.cn IN CNAME .
 *.dns.rubyfish.cn IN CNAME .
 dns.sb IN CNAME .
 *.dns.sb IN CNAME .
-dns.seia.io IN CNAME .
-*.dns.seia.io IN CNAME .
 dns.shecan.ir IN CNAME .
 *.dns.shecan.ir IN CNAME .
 dns.sindominio.net IN CNAME .
 *.dns.sindominio.net IN CNAME .
-dns.smartguard.io IN CNAME .
-*.dns.smartguard.io IN CNAME .
 dns.surfshark.com IN CNAME .
 *.dns.surfshark.com IN CNAME .
 dns.surfsharkdns.com IN CNAME .
@@ -439,8 +435,6 @@ doh.mullvad.net IN CNAME .
 *.doh.mullvad.net IN CNAME .
 doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
-doh.niyawe.de IN CNAME .
-*.doh.niyawe.de IN CNAME .
 doh.northeu.pi-dns.com IN CNAME .
 *.doh.northeu.pi-dns.com IN CNAME .
 doh.onedns.net IN CNAME .
@@ -469,8 +463,6 @@ doh.umbrella.com IN CNAME .
 *.doh.umbrella.com IN CNAME .
 doh.us.dnswarden.com IN CNAME .
 *.doh.us.dnswarden.com IN CNAME .
-doh.viatech.com.tw IN CNAME .
-*.doh.viatech.com.tw IN CNAME .
 doh.westeu.pi-dns.com IN CNAME .
 *.doh.westeu.pi-dns.com IN CNAME .
 doh.westus.pi-dns.com IN CNAME .
@@ -609,6 +601,8 @@ google-public-dns-b.google.com IN CNAME .
 *.google-public-dns-b.google.com IN CNAME .
 gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h4g3z1-doh.web.app IN CNAME .
@@ -955,6 +949,8 @@ waw01.dnscry.pt IN CNAME .
 *.waw01.dnscry.pt IN CNAME .
 waw02.dnscry.pt IN CNAME .
 *.waw02.dnscry.pt IN CNAME .
+wikimedia-dns.org IN CNAME .
+*.wikimedia-dns.org IN CNAME .
 yhz01.dnscry.pt IN CNAME .
 *.yhz01.dnscry.pt IN CNAME .
 yul01.dnscry.pt IN CNAME .
