@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039321 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212102 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -187,8 +187,6 @@ blog.idnes.cz IN CNAME .
 *.blog.idnes.cz IN CNAME .
 blog.ir IN CNAME .
 *.blog.ir IN CNAME .
-blog.is IN CNAME .
-*.blog.is IN CNAME .
 blog.lemonde.fr IN CNAME .
 *.blog.lemonde.fr IN CNAME .
 blog.me IN CNAME .
@@ -273,8 +271,6 @@ blogfa.com IN CNAME .
 *.blogfa.com IN CNAME .
 blogfree.net IN CNAME .
 *.blogfree.net IN CNAME .
-blogg.de IN CNAME .
-*.blogg.de IN CNAME .
 blogg.no IN CNAME .
 *.blogg.no IN CNAME .
 blogg.org IN CNAME .
@@ -461,8 +457,6 @@ blogspot.de IN CNAME .
 *.blogspot.de IN CNAME .
 blogspot.dk IN CNAME .
 *.blogspot.dk IN CNAME .
-blogspot.es IN CNAME .
-*.blogspot.es IN CNAME .
 blogspot.fi IN CNAME .
 *.blogspot.fi IN CNAME .
 blogspot.fr IN CNAME .
@@ -1171,8 +1165,6 @@ page.tl IN CNAME .
 *.page.tl IN CNAME .
 page4.com IN CNAME .
 *.page4.com IN CNAME .
-page4.me IN CNAME .
-*.page4.me IN CNAME .
 pages10.com IN CNAME .
 *.pages10.com IN CNAME .
 parsiblog.com IN CNAME .
