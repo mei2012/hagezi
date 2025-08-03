@@ -1,14 +1,12 @@
 ; RPZ "URLSHORTENER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039778 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212561 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
 *.1drv.ms IN CNAME .
 2u.xf.cz IN CNAME .
 *.2u.xf.cz IN CNAME .
-2ya.com IN CNAME .
-*.2ya.com IN CNAME .
 3.cn IN CNAME .
 *.3.cn IN CNAME .
 5il.co IN CNAME .
@@ -615,14 +613,14 @@ shorturl.at IN CNAME .
 *.shorturl.at IN CNAME .
 shp.ee IN CNAME .
 *.shp.ee IN CNAME .
-shrinkearn.com IN CNAME .
-*.shrinkearn.com IN CNAME .
 shrinkme.ink IN CNAME .
 *.shrinkme.ink IN CNAME .
 shrinkme.io IN CNAME .
 *.shrinkme.io IN CNAME .
 shrt-l.ink IN CNAME .
 *.shrt-l.ink IN CNAME .
+skimmth.is IN CNAME .
+*.skimmth.is IN CNAME .
 smart.link IN CNAME .
 *.smart.link IN CNAME .
 smarturl.it IN CNAME .
@@ -795,8 +793,6 @@ xurl.es IN CNAME .
 *.xurl.es IN CNAME .
 yadi.sk IN CNAME .
 *.yadi.sk IN CNAME .
-ye.pe IN CNAME .
-*.ye.pe IN CNAME .
 yelp.to IN CNAME .
 *.yelp.to IN CNAME .
 yfrog.com IN CNAME .
