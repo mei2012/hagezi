@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "NATIVE-WINOFFICE" AdBlock List
-! Version: 1754039395
-! Number of rules: 410
+! Version: 1754212167
+! Number of rules: 412
 !
 ||a-ring-fallback.msedge.net^
 ||a-ring-ipv6only.msedge.net^
@@ -147,6 +147,7 @@
 ||collector-main.trafficmanager.net^
 ||collector.azure.cn^
 ||collector.azure.eaglex.ic.gov^
+||collector.azure.microsoft.cloud^
 ||commerce.bing.com^
 ||confiant.msn.com^
 ||dc.applicationinsights.azure.cn^
@@ -212,6 +213,7 @@
 ||inference-app-gateway.koreacentral.cloudapp.azure.com^
 ||inference-app-gateway.northeurope.cloudapp.azure.com^
 ||inference-location-livenet.trafficmanager.net^
+||ingest.appcenter.ms^
 ||insights.cloud.microsoft^
 ||ir-tracking.trafficmanager.net^
 ||irreverselookuptm.trafficmanager.net^

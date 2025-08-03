@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039397 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212169 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring-ipv6only.msedge.net IN CNAME .
@@ -417,6 +417,8 @@ inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
 *.inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
 inference-location-livenet.trafficmanager.net IN CNAME .
 *.inference-location-livenet.trafficmanager.net IN CNAME .
+ingest.appcenter.ms IN CNAME .
+*.ingest.appcenter.ms IN CNAME .
 insights.cloud.microsoft IN CNAME .
 *.insights.cloud.microsoft IN CNAME .
 ir-tracking.trafficmanager.net IN CNAME .
