@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039249 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212041 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -81,6 +81,8 @@ $TTL 3600
 *.3ds.hacks.guide IN CNAME .
 3nc0r3-rlz.blogspot.com IN CNAME .
 *.3nc0r3-rlz.blogspot.com IN CNAME .
+456movie.net IN CNAME .
+*.456movie.net IN CNAME .
 47.ip-51-68-199.eu IN CNAME .
 *.47.ip-51-68-199.eu IN CNAME .
 4kdownload.com IN CNAME .
@@ -189,8 +191,6 @@ allserver.yolasite.com IN CNAME .
 *.allserver.yolasite.com IN CNAME .
 allsunday.edwardk.info IN CNAME .
 *.allsunday.edwardk.info IN CNAME .
-alltorrents.net IN CNAME .
-*.alltorrents.net IN CNAME .
 alpha.torrenttracker.nl IN CNAME .
 *.alpha.torrenttracker.nl IN CNAME .
 alphaanime.edwardk.info IN CNAME .
@@ -203,8 +203,6 @@ amedia.biz IN CNAME .
 *.amedia.biz IN CNAME .
 amedia.so IN CNAME .
 *.amedia.so IN CNAME .
-amerikasimperialism.2ya.com IN CNAME .
-*.amerikasimperialism.2ya.com IN CNAME .
 an1.com IN CNAME .
 *.an1.com IN CNAME .
 an1build.com IN CNAME .
@@ -227,6 +225,8 @@ anidex.info IN CNAME .
 *.anidex.info IN CNAME .
 anidex.moe IN CNAME .
 *.anidex.moe IN CNAME .
+animationdigitalnetwork.fr IN CNAME .
+*.animationdigitalnetwork.fr IN CNAME .
 anime-classic.edwardk.info IN CNAME .
 *.anime-classic.edwardk.info IN CNAME .
 anime-gundam.edwardk.info IN CNAME .
@@ -263,8 +263,6 @@ animelayer.ru IN CNAME .
 *.animelayer.ru IN CNAME .
 animemusicvideos.org IN CNAME .
 *.animemusicvideos.org IN CNAME .
-animeowl.me IN CNAME .
-*.animeowl.me IN CNAME .
 animepahe.ru IN CNAME .
 *.animepahe.ru IN CNAME .
 animeplanetnet.edwardk.info IN CNAME .
@@ -487,8 +485,6 @@ blackcats-games.com IN CNAME .
 *.blackcats-games.com IN CNAME .
 blackspigot.com IN CNAME .
 *.blackspigot.com IN CNAME .
-blackwave.tv IN CNAME .
-*.blackwave.tv IN CNAME .
 blackz.ro IN CNAME .
 *.blackz.ro IN CNAME .
 blokas.io IN CNAME .
@@ -619,8 +615,6 @@ castradio.net IN CNAME .
 *.castradio.net IN CNAME .
 cataz.to IN CNAME .
 *.cataz.to IN CNAME .
-catflix.su IN CNAME .
-*.catflix.su IN CNAME .
 ccmixter.org IN CNAME .
 *.ccmixter.org IN CNAME .
 ccn5050.wixsite.com IN CNAME .
@@ -629,8 +623,6 @@ cda-hd.cc IN CNAME .
 *.cda-hd.cc IN CNAME .
 cdie.cdie.free.fr IN CNAME .
 *.cdie.cdie.free.fr IN CNAME .
-cdromance.org IN CNAME .
-*.cdromance.org IN CNAME .
 cernet-tracker.appspot.com IN CNAME .
 *.cernet-tracker.appspot.com IN CNAME .
 ch3oh.ru IN CNAME .
@@ -739,12 +731,12 @@ cutiegirl.ru IN CNAME .
 *.cutiegirl.ru IN CNAME .
 cutscloud.duckdns.org IN CNAME .
 *.cutscloud.duckdns.org IN CNAME .
+cytu.be IN CNAME .
+*.cytu.be IN CNAME .
 d-addicts.com IN CNAME .
 *.d-addicts.com IN CNAME .
 d40969.acod.regrucolo.ru IN CNAME .
 *.d40969.acod.regrucolo.ru IN CNAME .
-danime.2ya.com IN CNAME .
-*.danime.2ya.com IN CNAME .
 dark-warez.new.fr IN CNAME .
 *.dark-warez.new.fr IN CNAME .
 dashunika07.ueuo.com IN CNAME .
@@ -1025,8 +1017,6 @@ filmehd.se IN CNAME .
 *.filmehd.se IN CNAME .
 filmehd.to IN CNAME .
 *.filmehd.to IN CNAME .
-filmitorrent.net IN CNAME .
-*.filmitorrent.net IN CNAME .
 filmpalast.to IN CNAME .
 *.filmpalast.to IN CNAME .
 films.waploaded.com IN CNAME .
@@ -1425,8 +1415,6 @@ kaa.mx IN CNAME .
 *.kaa.mx IN CNAME .
 kaffee-wellblech.no-ip.biz IN CNAME .
 *.kaffee-wellblech.no-ip.biz IN CNAME .
-kamikazee.duckdns.org IN CNAME .
-*.kamikazee.duckdns.org IN CNAME .
 kanal-4.de IN CNAME .
 *.kanal-4.de IN CNAME .
 kaos-warez.blogspot.com IN CNAME .
@@ -1497,8 +1485,6 @@ kkant.weebly.com IN CNAME .
 *.kkant.weebly.com IN CNAME .
 knaben.org IN CNAME .
 *.knaben.org IN CNAME .
-knaben.ru IN CNAME .
-*.knaben.ru IN CNAME .
 knaben.xyz IN CNAME .
 *.knaben.xyz IN CNAME .
 kodokoala.blogspot.com IN CNAME .
@@ -1837,8 +1823,6 @@ mv-web.netlify.app IN CNAME .
 *.mv-web.netlify.app IN CNAME .
 mvgroup.org IN CNAME .
 *.mvgroup.org IN CNAME .
-my-free-mp3s.com IN CNAME .
-*.my-free-mp3s.com IN CNAME .
 myabandonware.com IN CNAME .
 *.myabandonware.com IN CNAME .
 myanime.live IN CNAME .
@@ -1873,8 +1857,6 @@ nepu.to IN CNAME .
 *.nepu.to IN CNAME .
 net2025.cc IN CNAME .
 *.net2025.cc IN CNAME .
-netmatrixbd.com IN CNAME .
-*.netmatrixbd.com IN CNAME .
 netmovies.to IN CNAME .
 *.netmovies.to IN CNAME .
 netnaija.xyz IN CNAME .
@@ -2499,8 +2481,6 @@ smtp-relay.odysseylabel.com.au IN CNAME .
 *.smtp-relay.odysseylabel.com.au IN CNAME .
 smwcentral.net IN CNAME .
 *.smwcentral.net IN CNAME .
-snagfilms.com IN CNAME .
-*.snagfilms.com IN CNAME .
 snapany.com IN CNAME .
 *.snapany.com IN CNAME .
 snapins.ai IN CNAME .
@@ -2751,8 +2731,6 @@ theultimatesoft.blogspot.com IN CNAME .
 *.theultimatesoft.blogspot.com IN CNAME .
 theweddingringer2015watchonline.tumblr.com IN CNAME .
 *.theweddingringer2015watchonline.tumblr.com IN CNAME .
-thinking.duckdns.org IN CNAME .
-*.thinking.duckdns.org IN CNAME .
 thitgaluoc.dynu.net IN CNAME .
 *.thitgaluoc.dynu.net IN CNAME .
 thouvenin.cloud IN CNAME .
@@ -2809,8 +2787,6 @@ torrent-downloads.to IN CNAME .
 *.torrent-downloads.to IN CNAME .
 torrent-finder.com IN CNAME .
 *.torrent-finder.com IN CNAME .
-torrent-pirat.com IN CNAME .
-*.torrent-pirat.com IN CNAME .
 torrent-plaza.no-ip.org IN CNAME .
 *.torrent-plaza.no-ip.org IN CNAME .
 torrent-stats.info IN CNAME .
@@ -2861,8 +2837,6 @@ torrentgalaxy.to IN CNAME .
 *.torrentgalaxy.to IN CNAME .
 torrenting.com IN CNAME .
 *.torrenting.com IN CNAME .
-torrentkitty.tv IN CNAME .
-*.torrentkitty.tv IN CNAME .
 torrentleech.org IN CNAME .
 *.torrentleech.org IN CNAME .
 torrentmac.net IN CNAME .
@@ -2955,8 +2929,6 @@ tracker.23794.top IN CNAME .
 *.tracker.23794.top IN CNAME .
 tracker.4.babico.name.tr IN CNAME .
 *.tracker.4.babico.name.tr IN CNAME .
-tracker.52pt.site IN CNAME .
-*.tracker.52pt.site IN CNAME .
 tracker.aburaya.live IN CNAME .
 *.tracker.aburaya.live IN CNAME .
 tracker.acg.gg IN CNAME .
@@ -3057,8 +3029,6 @@ tracker.enitin.xyz IN CNAME .
 *.tracker.enitin.xyz IN CNAME .
 tracker.etree.org IN CNAME .
 *.tracker.etree.org IN CNAME .
-tracker.ex.ua IN CNAME .
-*.tracker.ex.ua IN CNAME .
 tracker.exoticaz.to IN CNAME .
 *.tracker.exoticaz.to IN CNAME .
 tracker.expli.top IN CNAME .
@@ -3101,6 +3071,8 @@ tracker.hdsky.me IN CNAME .
 *.tracker.hdsky.me IN CNAME .
 tracker.hdtime.org IN CNAME .
 *.tracker.hdtime.org IN CNAME .
+tracker.hifimarket.in IN CNAME .
+*.tracker.hifimarket.in IN CNAME .
 tracker.hifitechindia.com IN CNAME .
 *.tracker.hifitechindia.com IN CNAME .
 tracker.home.kmzs123.cn IN CNAME .
@@ -3135,8 +3107,6 @@ tracker.keepfrds.com IN CNAME .
 *.tracker.keepfrds.com IN CNAME .
 tracker.kmzs123.cn IN CNAME .
 *.tracker.kmzs123.cn IN CNAME .
-tracker.kmzs123.top IN CNAME .
-*.tracker.kmzs123.top IN CNAME .
 tracker.kuroy.me IN CNAME .
 *.tracker.kuroy.me IN CNAME .
 tracker.leechshield.link IN CNAME .
@@ -3147,8 +3117,6 @@ tracker.lintk.me IN CNAME .
 *.tracker.lintk.me IN CNAME .
 tracker.linvk.com IN CNAME .
 *.tracker.linvk.com IN CNAME .
-tracker.loligirl.cn IN CNAME .
-*.tracker.loligirl.cn IN CNAME .
 tracker.lyretain.site IN CNAME .
 *.tracker.lyretain.site IN CNAME .
 tracker.m-team.cc IN CNAME .
@@ -3371,6 +3339,8 @@ tube.dfnbd.net IN CNAME .
 *.tube.dfnbd.net IN CNAME .
 turbobit.net IN CNAME .
 *.turbobit.net IN CNAME .
+turboplayers.xyz IN CNAME .
+*.turboplayers.xyz IN CNAME .
 turkish123.com IN CNAME .
 *.turkish123.com IN CNAME .
 turtle55.myftp.org IN CNAME .
@@ -3491,6 +3461,8 @@ vf-stream.org IN CNAME .
 *.vf-stream.org IN CNAME .
 vibe.community IN CNAME .
 *.vibe.community IN CNAME .
+vidbox.to IN CNAME .
+*.vidbox.to IN CNAME .
 vide.cx IN CNAME .
 *.vide.cx IN CNAME .
 vide0.net IN CNAME .
@@ -3585,6 +3557,10 @@ warezz.now.sh IN CNAME .
 *.warezz.now.sh IN CNAME .
 wassermann.online IN CNAME .
 *.wassermann.online IN CNAME .
+watch.spencerdevs.xyz IN CNAME .
+*.watch.spencerdevs.xyz IN CNAME .
+watch32hd.co IN CNAME .
+*.watch32hd.co IN CNAME .
 watchmovies.nz IN CNAME .
 *.watchmovies.nz IN CNAME .
 watchseries.bar IN CNAME .
@@ -3599,8 +3575,6 @@ way2movies.vercel.app IN CNAME .
 *.way2movies.vercel.app IN CNAME .
 wco.tv IN CNAME .
 *.wco.tv IN CNAME .
-wcofun.net IN CNAME .
-*.wcofun.net IN CNAME .
 wcostream.com IN CNAME .
 *.wcostream.com IN CNAME .
 wcostream.tv IN CNAME .
