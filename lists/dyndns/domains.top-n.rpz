@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039268 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212057 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -347,8 +347,6 @@ feste-ip.net IN CNAME .
 *.feste-ip.net IN CNAME .
 for-the.biz IN CNAME .
 *.for-the.biz IN CNAME .
-forumz.info IN CNAME .
-*.forumz.info IN CNAME .
 freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
@@ -361,6 +359,8 @@ freetcp.com IN CNAME .
 *.freetcp.com IN CNAME .
 from-al.com IN CNAME .
 *.from-al.com IN CNAME .
+from-az.net IN CNAME .
+*.from-az.net IN CNAME .
 from-ca.com IN CNAME .
 *.from-ca.com IN CNAME .
 from-dc.com IN CNAME .
@@ -521,8 +521,6 @@ jungleheart.com IN CNAME .
 *.jungleheart.com IN CNAME .
 justdied.com IN CNAME .
 *.justdied.com IN CNAME .
-k.vu IN CNAME .
-*.k.vu IN CNAME .
 kicks-ass.net IN CNAME .
 *.kicks-ass.net IN CNAME .
 kicks-ass.org IN CNAME .
@@ -599,8 +597,6 @@ mynetav.net IN CNAME .
 *.mynetav.net IN CNAME .
 mynetgear.com IN CNAME .
 *.mynetgear.com IN CNAME .
-myonlineportal.net IN CNAME .
-*.myonlineportal.net IN CNAME .
 mypets.ws IN CNAME .
 *.mypets.ws IN CNAME .
 mypi.co IN CNAME .
@@ -679,6 +675,8 @@ onmypc.info IN CNAME .
 *.onmypc.info IN CNAME .
 onmypc.net IN CNAME .
 *.onmypc.net IN CNAME .
+onmypc.org IN CNAME .
+*.onmypc.org IN CNAME .
 onthewifi.com IN CNAME .
 *.onthewifi.com IN CNAME .
 ooguy.com IN CNAME .
@@ -717,6 +715,8 @@ run.place IN CNAME .
 *.run.place IN CNAME .
 sdp-mos.ru IN CNAME .
 *.sdp-mos.ru IN CNAME .
+selfip.biz IN CNAME .
+*.selfip.biz IN CNAME .
 selfip.com IN CNAME .
 *.selfip.com IN CNAME .
 selfip.info IN CNAME .
