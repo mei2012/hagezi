@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-SAMSUNG"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754039383 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754212155 12h 15m 3w 3h
 acr-au-prd.samsungcloud.tv IN CNAME .
 *.acr-au-prd.samsungcloud.tv IN CNAME .
 acr-br-prd.samsungcloud.tv IN CNAME .
@@ -77,6 +77,8 @@ dpu.samsungelectronics.com IN CNAME .
 *.dpu.samsungelectronics.com IN CNAME .
 ehg-samsungusa.hitbox.com IN CNAME .
 *.ehg-samsungusa.hitbox.com IN CNAME .
+eu.business.samsung.com IN CNAME .
+*.eu.business.samsung.com IN CNAME .
 event-tracking.samsung.com IN CNAME .
 *.event-tracking.samsung.com IN CNAME .
 fast.samsungsingapore.demdex.net IN CNAME .
