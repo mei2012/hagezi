@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754212053 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754298456 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -1435,8 +1435,6 @@ dns.koala.us.to IN CNAME .
 *.dns.koala.us.to IN CNAME .
 dns.korzhyk.pp.ua IN CNAME .
 *.dns.korzhyk.pp.ua IN CNAME .
-dns.linkr.ninja IN CNAME .
-*.dns.linkr.ninja IN CNAME .
 dns.mayx.eu.org IN CNAME .
 *.dns.mayx.eu.org IN CNAME .
 dns.mnet-online.de IN CNAME .
@@ -1611,6 +1609,8 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
+doh.flashstart.com IN CNAME .
+*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -1817,8 +1817,6 @@ epicbrowser.com IN CNAME .
 *.epicbrowser.com IN CNAME .
 eqnar.ints.f5.si IN CNAME .
 *.eqnar.ints.f5.si IN CNAME .
-error404becausepar1scantlose.run.place IN CNAME .
-*.error404becausepar1scantlose.run.place IN CNAME .
 esel.stusta.mhn.de IN CNAME .
 *.esel.stusta.mhn.de IN CNAME .
 eth.link IN CNAME .
@@ -2075,8 +2073,6 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
@@ -2103,6 +2099,8 @@ hidemy.name IN CNAME .
 *.hidemy.name IN CNAME .
 hidemyass.com IN CNAME .
 *.hidemyass.com IN CNAME .
+hideproxy.me IN CNAME .
+*.hideproxy.me IN CNAME .
 hkg01.dnscry.pt IN CNAME .
 *.hkg01.dnscry.pt IN CNAME .
 hkg02.dnscry.pt IN CNAME .
@@ -2433,6 +2431,8 @@ nodepay.ai IN CNAME .
 *.nodepay.ai IN CNAME .
 nodes.gen4.ninja IN CNAME .
 *.nodes.gen4.ninja IN CNAME .
+nolagvpn.com IN CNAME .
+*.nolagvpn.com IN CNAME .
 nordaccount.com IN CNAME .
 *.nordaccount.com IN CNAME .
 nordcdn.com IN CNAME .
@@ -2577,6 +2577,8 @@ portmap.io IN CNAME .
 *.portmap.io IN CNAME .
 pp.hamburger.ip-ddns.com IN CNAME .
 *.pp.hamburger.ip-ddns.com IN CNAME .
+pq7hdf.com IN CNAME .
+*.pq7hdf.com IN CNAME .
 pranaynaygames123.hopto.org IN CNAME .
 *.pranaynaygames123.hopto.org IN CNAME .
 privado.io IN CNAME .
@@ -3181,8 +3183,6 @@ wireguard.com IN CNAME .
 *.wireguard.com IN CNAME .
 wirevpn.app IN CNAME .
 *.wirevpn.app IN CNAME .
-wirevpn.cc IN CNAME .
-*.wirevpn.cc IN CNAME .
 wiseghostapp.com IN CNAME .
 *.wiseghostapp.com IN CNAME .
 witopia.net IN CNAME .
