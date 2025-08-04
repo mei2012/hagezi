@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754212041 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754298443 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -69,8 +69,6 @@ $TTL 3600
 *.24-hd.com IN CNAME .
 24h.tv IN CNAME .
 *.24h.tv IN CNAME .
-2600.com IN CNAME .
-*.2600.com IN CNAME .
 2ix2.com IN CNAME .
 *.2ix2.com IN CNAME .
 3.tracker.eu.org IN CNAME .
@@ -435,6 +433,8 @@ bclearning.top IN CNAME .
 *.bclearning.top IN CNAME .
 bddreamnet.blogspot.com IN CNAME .
 *.bddreamnet.blogspot.com IN CNAME .
+beatrice-raws.org IN CNAME .
+*.beatrice-raws.org IN CNAME .
 bemaniso.ws IN CNAME .
 *.bemaniso.ws IN CNAME .
 benouworldtrip.fr IN CNAME .
@@ -753,6 +753,8 @@ ddgu.ddos-guard.net IN CNAME .
 *.ddgu.ddos-guard.net IN CNAME .
 ddlcomics.blogspot.com IN CNAME .
 *.ddlcomics.blogspot.com IN CNAME .
+ddlvalley.me IN CNAME .
+*.ddlvalley.me IN CNAME .
 ddownload.com IN CNAME .
 *.ddownload.com IN CNAME .
 debrid-services-comparison.netlify.app IN CNAME .
@@ -881,6 +883,12 @@ eddie4.nl IN CNAME .
 *.eddie4.nl IN CNAME .
 eek.edwardk.info IN CNAME .
 *.eek.edwardk.info IN CNAME .
+egydead.fyi IN CNAME .
+*.egydead.fyi IN CNAME .
+egydead.video IN CNAME .
+*.egydead.video IN CNAME .
+egydeadw.sbs IN CNAME .
+*.egydeadw.sbs IN CNAME .
 ehtracker.org IN CNAME .
 *.ehtracker.org IN CNAME .
 ekino-tv.pl IN CNAME .
@@ -1367,8 +1375,6 @@ iscariote.edwardk.info IN CNAME .
 *.iscariote.edwardk.info IN CNAME .
 isk.richardsw.club IN CNAME .
 *.isk.richardsw.club IN CNAME .
-ismaarino.com IN CNAME .
-*.ismaarino.com IN CNAME .
 isohunt.ch IN CNAME .
 *.isohunt.ch IN CNAME .
 isohunt.com IN CNAME .
@@ -1859,8 +1865,6 @@ net2025.cc IN CNAME .
 *.net2025.cc IN CNAME .
 netmovies.to IN CNAME .
 *.netmovies.to IN CNAME .
-netnaija.xyz IN CNAME .
-*.netnaija.xyz IN CNAME .
 netu.tv IN CNAME .
 *.netu.tv IN CNAME .
 new-line.net IN CNAME .
@@ -1949,8 +1953,6 @@ nyaaapi.onrender.com IN CNAME .
 *.nyaaapi.onrender.com IN CNAME .
 nzb-chat.com IN CNAME .
 *.nzb-chat.com IN CNAME .
-nzb.cat IN CNAME .
-*.nzb.cat IN CNAME .
 nzb.su IN CNAME .
 *.nzb.su IN CNAME .
 nzbdrone.readthedocs.io IN CNAME .
@@ -1977,14 +1979,10 @@ omda.no-ip.org IN CNAME .
 *.omda.no-ip.org IN CNAME .
 onejav.com IN CNAME .
 *.onejav.com IN CNAME .
-onhockey.tv IN CNAME .
-*.onhockey.tv IN CNAME .
 online-fix.me IN CNAME .
 *.online-fix.me IN CNAME .
 online-life.ru IN CNAME .
 *.online-life.ru IN CNAME .
-onlinekora-tv.com IN CNAME .
-*.onlinekora-tv.com IN CNAME .
 oomoye.me IN CNAME .
 *.oomoye.me IN CNAME .
 open-v6.demonoid.ch IN CNAME .
@@ -2143,8 +2141,6 @@ pte.nu IN CNAME .
 *.pte.nu IN CNAME .
 publictorrent.net IN CNAME .
 *.publictorrent.net IN CNAME .
-publictracker.xyz IN CNAME .
-*.publictracker.xyz IN CNAME .
 pubt.net IN CNAME .
 *.pubt.net IN CNAME .
 pure-mac.com IN CNAME .
@@ -2211,8 +2207,6 @@ reggae-lossless.no-ip.org IN CNAME .
 *.reggae-lossless.no-ip.org IN CNAME .
 region.nl1.privex.cc IN CNAME .
 *.region.nl1.privex.cc IN CNAME .
-reisub.nsupdate.info IN CNAME .
-*.reisub.nsupdate.info IN CNAME .
 rep-art.ynh.fr IN CNAME .
 *.rep-art.ynh.fr IN CNAME .
 retracker.akado-ural.ru IN CNAME .
@@ -2695,8 +2689,6 @@ thejigsawpuzzles.com IN CNAME .
 *.thejigsawpuzzles.com IN CNAME .
 thepiratebay-us.org IN CNAME .
 *.thepiratebay-us.org IN CNAME .
-thepiratebay.asia IN CNAME .
-*.thepiratebay.asia IN CNAME .
 thepiratebay.co.com IN CNAME .
 *.thepiratebay.co.com IN CNAME .
 thepiratebay.org IN CNAME .
@@ -2887,10 +2879,6 @@ tpb.skynetcloud.site IN CNAME .
 *.tpb.skynetcloud.site IN CNAME .
 tr-rh-zhuqiy.dgj055.icu IN CNAME .
 *.tr-rh-zhuqiy.dgj055.icu IN CNAME .
-tr-zhuqiy-1.dgj055.icu IN CNAME .
-*.tr-zhuqiy-1.dgj055.icu IN CNAME .
-tr-zhuqiy-2.dgj055.icu IN CNAME .
-*.tr-zhuqiy-2.dgj055.icu IN CNAME .
 tr.abiir.top IN CNAME .
 *.tr.abiir.top IN CNAME .
 tr.abir.ga IN CNAME .
@@ -2913,18 +2901,12 @@ tr3.ysagin.top IN CNAME .
 *.tr3.ysagin.top IN CNAME .
 tr4ck3r.duckdns.org IN CNAME .
 *.tr4ck3r.duckdns.org IN CNAME .
-trackarr.org IN CNAME .
-*.trackarr.org IN CNAME .
 tracker-banzai.no-ip.org IN CNAME .
 *.tracker-banzai.no-ip.org IN CNAME .
 tracker-de.ololosh.space IN CNAME .
 *.tracker-de.ololosh.space IN CNAME .
 tracker-udp.gbitt.info IN CNAME .
 *.tracker-udp.gbitt.info IN CNAME .
-tracker-zhuqiy.dgj055.icu IN CNAME .
-*.tracker-zhuqiy.dgj055.icu IN CNAME .
-tracker.0x7c0.com IN CNAME .
-*.tracker.0x7c0.com IN CNAME .
 tracker.23794.top IN CNAME .
 *.tracker.23794.top IN CNAME .
 tracker.4.babico.name.tr IN CNAME .
@@ -3001,8 +2983,6 @@ tracker.daydream.dmhy.best IN CNAME .
 *.tracker.daydream.dmhy.best IN CNAME .
 tracker.ddunlimited.net IN CNAME .
 *.tracker.ddunlimited.net IN CNAME .
-tracker.deadorbit.nl IN CNAME .
-*.tracker.deadorbit.nl IN CNAME .
 tracker.dix.tf IN CNAME .
 *.tracker.dix.tf IN CNAME .
 tracker.dler.com IN CNAME .
@@ -3015,8 +2995,6 @@ tracker.ds.is IN CNAME .
 *.tracker.ds.is IN CNAME .
 tracker.ducks.party IN CNAME .
 *.tracker.ducks.party IN CNAME .
-tracker.dump.cl IN CNAME .
-*.tracker.dump.cl IN CNAME .
 tracker.dutchtracking.com IN CNAME .
 *.tracker.dutchtracking.com IN CNAME .
 tracker.dyne.org IN CNAME .
@@ -3075,8 +3053,6 @@ tracker.hifimarket.in IN CNAME .
 *.tracker.hifimarket.in IN CNAME .
 tracker.hifitechindia.com IN CNAME .
 *.tracker.hifitechindia.com IN CNAME .
-tracker.home.kmzs123.cn IN CNAME .
-*.tracker.home.kmzs123.cn IN CNAME .
 tracker.iamhansen.xyz IN CNAME .
 *.tracker.iamhansen.xyz IN CNAME .
 tracker.imgoingto.icu IN CNAME .
@@ -3091,8 +3067,6 @@ tracker.ipv6tracker.ru IN CNAME .
 *.tracker.ipv6tracker.ru IN CNAME .
 tracker.iriseden.fr IN CNAME .
 *.tracker.iriseden.fr IN CNAME .
-tracker.itscraftsoftware.my.id IN CNAME .
-*.tracker.itscraftsoftware.my.id IN CNAME .
 tracker.jdx3.org IN CNAME .
 *.tracker.jdx3.org IN CNAME .
 tracker.jonaslsa.com IN CNAME .
@@ -3135,8 +3109,6 @@ tracker.moeking.me IN CNAME .
 *.tracker.moeking.me IN CNAME .
 tracker.monitorit4.me IN CNAME .
 *.tracker.monitorit4.me IN CNAME .
-tracker.morethantv.me IN CNAME .
-*.tracker.morethantv.me IN CNAME .
 tracker.moxing.party IN CNAME .
 *.tracker.moxing.party IN CNAME .
 tracker.msm8916.com IN CNAME .
@@ -3439,8 +3411,6 @@ utorrent.com IN CNAME .
 *.utorrent.com IN CNAME .
 utorrent.li IN CNAME .
 *.utorrent.li IN CNAME .
-utracker.ghostchu-services.top IN CNAME .
-*.utracker.ghostchu-services.top IN CNAME .
 utvbd.yolasite.com IN CNAME .
 *.utvbd.yolasite.com IN CNAME .
 v1046920.hosted-by-vdsina.ru IN CNAME .
@@ -3561,6 +3531,8 @@ watch.spencerdevs.xyz IN CNAME .
 *.watch.spencerdevs.xyz IN CNAME .
 watch32hd.co IN CNAME .
 *.watch32hd.co IN CNAME .
+watchepisodes4.com IN CNAME .
+*.watchepisodes4.com IN CNAME .
 watchmovies.nz IN CNAME .
 *.watchmovies.nz IN CNAME .
 watchseries.bar IN CNAME .
