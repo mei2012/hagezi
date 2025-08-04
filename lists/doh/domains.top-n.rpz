@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754212045 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754298448 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -249,8 +249,6 @@ dns.koala.us.to IN CNAME .
 *.dns.koala.us.to IN CNAME .
 dns.korzhyk.pp.ua IN CNAME .
 *.dns.korzhyk.pp.ua IN CNAME .
-dns.linkr.ninja IN CNAME .
-*.dns.linkr.ninja IN CNAME .
 dns.mayx.eu.org IN CNAME .
 *.dns.mayx.eu.org IN CNAME .
 dns.mnet-online.de IN CNAME .
@@ -425,6 +423,8 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
+doh.flashstart.com IN CNAME .
+*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -601,8 +601,6 @@ google-public-dns-b.google.com IN CNAME .
 *.google-public-dns-b.google.com IN CNAME .
 gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h4g3z1-doh.web.app IN CNAME .
