@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754212102 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754298507 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -13,8 +13,6 @@ $TTL 3600
 *.0fees.net IN CNAME .
 100webspace.net IN CNAME .
 *.100webspace.net IN CNAME .
-100ws.com IN CNAME .
-*.100ws.com IN CNAME .
 110mb.com IN CNAME .
 *.110mb.com IN CNAME .
 126.com IN CNAME .
@@ -929,8 +927,6 @@ inter.net.il IN CNAME .
 *.inter.net.il IN CNAME .
 inube.com IN CNAME .
 *.inube.com IN CNAME .
-is-best.net IN CNAME .
-*.is-best.net IN CNAME .
 is-blog.com IN CNAME .
 *.is-blog.com IN CNAME .
 isblog.net IN CNAME .
@@ -1209,8 +1205,6 @@ prublogger.com IN CNAME .
 *.prublogger.com IN CNAME .
 prv.pl IN CNAME .
 *.prv.pl IN CNAME .
-psend.com IN CNAME .
-*.psend.com IN CNAME .
 pun.pl IN CNAME .
 *.pun.pl IN CNAME .
 qodsblog.com IN CNAME .
