@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754212561 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754298929 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -157,6 +157,8 @@ droplr.net IN CNAME .
 *.droplr.net IN CNAME .
 dtdg.co IN CNAME .
 *.dtdg.co IN CNAME .
+dub.co IN CNAME .
+*.dub.co IN CNAME .
 dub.sh IN CNAME .
 *.dub.sh IN CNAME .
 dw.com IN CNAME .
@@ -617,8 +619,6 @@ shrinkme.ink IN CNAME .
 *.shrinkme.ink IN CNAME .
 shrinkme.io IN CNAME .
 *.shrinkme.io IN CNAME .
-shrt-l.ink IN CNAME .
-*.shrt-l.ink IN CNAME .
 skimmth.is IN CNAME .
 *.skimmth.is IN CNAME .
 smart.link IN CNAME .
@@ -705,8 +705,6 @@ tokopedia.link IN CNAME .
 *.tokopedia.link IN CNAME .
 tr.ee IN CNAME .
 *.tr.ee IN CNAME .
-tr.im IN CNAME .
-*.tr.im IN CNAME .
 transfer.sh IN CNAME .
 *.transfer.sh IN CNAME .
 trib.al IN CNAME .
@@ -755,8 +753,6 @@ vk.cc IN CNAME .
 *.vk.cc IN CNAME .
 vp-link.com IN CNAME .
 *.vp-link.com IN CNAME .
-w.wiki IN CNAME .
-*.w.wiki IN CNAME .
 wa.link IN CNAME .
 *.wa.link IN CNAME .
 wa.me IN CNAME .
