@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754298461 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754384857 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -447,6 +447,8 @@ homepc.it IN CNAME .
 *.homepc.it IN CNAME .
 homeunix.net IN CNAME .
 *.homeunix.net IN CNAME .
+homeunix.org IN CNAME .
+*.homeunix.org IN CNAME .
 homingbeacon.net IN CNAME .
 *.homingbeacon.net IN CNAME .
 hopto.me IN CNAME .
