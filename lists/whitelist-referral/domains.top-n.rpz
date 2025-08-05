@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754298932 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754385366 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -1363,6 +1363,8 @@ rzeyu9wab.cc.rs6.net IN CNAME .
 *.rzeyu9wab.cc.rs6.net IN CNAME .
 rzl9jxcab.cc.rs6.net IN CNAME .
 *.rzl9jxcab.cc.rs6.net IN CNAME .
+s.bluecore.com IN CNAME .
+*.s.bluecore.com IN CNAME .
 s.sick.com IN CNAME .
 *.s.sick.com IN CNAME .
 s1.dev1.exacttarget.com IN CNAME .
