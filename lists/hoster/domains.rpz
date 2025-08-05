@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754298507 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754384900 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -1005,8 +1005,6 @@ lineroaming.sa.com IN CNAME .
 *.lineroaming.sa.com IN CNAME .
 link4blogs.com IN CNAME .
 *.link4blogs.com IN CNAME .
-liveblog365.com IN CNAME .
-*.liveblog365.com IN CNAME .
 livebloggs.com IN CNAME .
 *.livebloggs.com IN CNAME .
 livedoor.jp IN CNAME .
@@ -1473,6 +1471,8 @@ w3spaces.com IN CNAME .
 *.w3spaces.com IN CNAME .
 wallinside.com IN CNAME .
 *.wallinside.com IN CNAME .
+warhead.com IN CNAME .
+*.warhead.com IN CNAME .
 web-log.nl IN CNAME .
 *.web-log.nl IN CNAME .
 web1000.com IN CNAME .
