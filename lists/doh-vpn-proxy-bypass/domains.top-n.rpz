@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754298456 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754384852 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -2073,6 +2073,8 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
@@ -2159,10 +2161,6 @@ ilovemrmorris-ggnewo.vercel.app IN CNAME .
 *.ilovemrmorris-ggnewo.vercel.app IN CNAME .
 imagoofygooberrock.vercel.app IN CNAME .
 *.imagoofygooberrock.vercel.app IN CNAME .
-inboxdayo.laviewddns.com IN CNAME .
-*.inboxdayo.laviewddns.com IN CNAME .
-inboxproxy.laviewddns.com IN CNAME .
-*.inboxproxy.laviewddns.com IN CNAME .
 incognito-static-version.pages.dev IN CNAME .
 *.incognito-static-version.pages.dev IN CNAME .
 indo-ssh.com IN CNAME .
@@ -2175,8 +2173,6 @@ interesting-molli-qj-9c49db8e.koyeb.app IN CNAME .
 *.interesting-molli-qj-9c49db8e.koyeb.app IN CNAME .
 interstellar-git-main-surges-projects-3eb46597.vercel.app IN CNAME .
 *.interstellar-git-main-surges-projects-3eb46597.vercel.app IN CNAME .
-interstellar.laviewddns.com IN CNAME .
-*.interstellar.laviewddns.com IN CNAME .
 interstellarbynirbytes2.vercel.app IN CNAME .
 *.interstellarbynirbytes2.vercel.app IN CNAME .
 iow-dns.bitdefender.net IN CNAME .
@@ -2247,8 +2243,6 @@ konata-ice.soon.it IN CNAME .
 *.konata-ice.soon.it IN CNAME .
 konnnitiha----saiko.easterndns.com IN CNAME .
 *.konnnitiha----saiko.easterndns.com IN CNAME .
-korededouda.laviewddns.com IN CNAME .
-*.korededouda.laviewddns.com IN CNAME .
 kozownoprxy.kozow.com IN CNAME .
 *.kozownoprxy.kozow.com IN CNAME .
 kproxy.com IN CNAME .
@@ -2519,8 +2513,6 @@ overplay.net IN CNAME .
 *.overplay.net IN CNAME .
 ovpn.com IN CNAME .
 *.ovpn.com IN CNAME .
-ovpn.to IN CNAME .
-*.ovpn.to IN CNAME .
 oxylabs.io IN CNAME .
 *.oxylabs.io IN CNAME .
 p99nxpivfscyverz.me IN CNAME .
@@ -2543,8 +2535,6 @@ pdns.faelix.net IN CNAME .
 *.pdns.faelix.net IN CNAME .
 pdx01.dnscry.pt IN CNAME .
 *.pdx01.dnscry.pt IN CNAME .
-peoplewhosay67arecornballs.laviewddns.com IN CNAME .
-*.peoplewhosay67arecornballs.laviewddns.com IN CNAME .
 perfect-privacy.com IN CNAME .
 *.perfect-privacy.com IN CNAME .
 phl01.dnscry.pt IN CNAME .
@@ -2905,8 +2895,6 @@ syd02.dnscry.pt IN CNAME .
 *.syd02.dnscry.pt IN CNAME .
 t9rke-5zq1m.dynv6.net IN CNAME .
 *.t9rke-5zq1m.dynv6.net IN CNAME .
-taihenomatasesimasita.laviewddns.com IN CNAME .
-*.taihenomatasesimasita.laviewddns.com IN CNAME .
 tailscale.com IN CNAME .
 *.tailscale.com IN CNAME .
 talk2m.com IN CNAME .
@@ -3065,8 +3053,6 @@ us1.dns.lavate.ch IN CNAME .
 *.us1.dns.lavate.ch IN CNAME .
 us2-browse.startpage.com IN CNAME .
 *.us2-browse.startpage.com IN CNAME .
-useinterstellar.laviewddns.com IN CNAME .
-*.useinterstellar.laviewddns.com IN CNAME .
 uvpn.me IN CNAME .
 *.uvpn.me IN CNAME .
 uw-dns.rubyfish.cn IN CNAME .
