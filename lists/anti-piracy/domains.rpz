@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754298443 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754384841 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -257,8 +257,6 @@ animekai.to IN CNAME .
 *.animekai.to IN CNAME .
 animekhor.org IN CNAME .
 *.animekhor.org IN CNAME .
-animelayer.ru IN CNAME .
-*.animelayer.ru IN CNAME .
 animemusicvideos.org IN CNAME .
 *.animemusicvideos.org IN CNAME .
 animepahe.ru IN CNAME .
@@ -813,6 +811,8 @@ docer.pl IN CNAME .
 *.docer.pl IN CNAME .
 docker-tracker-production.up.railway.app IN CNAME .
 *.docker-tracker-production.up.railway.app IN CNAME .
+docuwiki.net IN CNAME .
+*.docuwiki.net IN CNAME .
 dodear.com IN CNAME .
 *.dodear.com IN CNAME .
 dodi-repacks.site IN CNAME .
@@ -1191,8 +1191,6 @@ getvideostream.com IN CNAME .
 *.getvideostream.com IN CNAME .
 giardiniblog.it IN CNAME .
 *.giardiniblog.it IN CNAME .
-gid-online.ru IN CNAME .
-*.gid-online.ru IN CNAME .
 gidonline-film.ru IN CNAME .
 *.gidonline-film.ru IN CNAME .
 gidonline.eu IN CNAME .
@@ -1857,8 +1855,6 @@ naruto.a.free.fr IN CNAME .
 *.naruto.a.free.fr IN CNAME .
 narutopie.free.fr IN CNAME .
 *.narutopie.free.fr IN CNAME .
-nbabite.com IN CNAME .
-*.nbabite.com IN CNAME .
 nepu.to IN CNAME .
 *.nepu.to IN CNAME .
 net2025.cc IN CNAME .
@@ -3433,14 +3429,10 @@ vibe.community IN CNAME .
 *.vibe.community IN CNAME .
 vidbox.to IN CNAME .
 *.vidbox.to IN CNAME .
-vide.cx IN CNAME .
-*.vide.cx IN CNAME .
 vide0.net IN CNAME .
 *.vide0.net IN CNAME .
 video.laola1.at IN CNAME .
 *.video.laola1.at IN CNAME .
-videq.dev IN CNAME .
-*.videq.dev IN CNAME .
 vider.info IN CNAME .
 *.vider.info IN CNAME .
 vidics.to IN CNAME .
@@ -3539,8 +3531,6 @@ watchseries.bar IN CNAME .
 *.watchseries.bar IN CNAME .
 watchseries.pe IN CNAME .
 *.watchseries.pe IN CNAME .
-watchsomuch.com IN CNAME .
-*.watchsomuch.com IN CNAME .
 watchwave-v2.vercel.app IN CNAME .
 *.watchwave-v2.vercel.app IN CNAME .
 way2movies.vercel.app IN CNAME .
