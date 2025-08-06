@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "DOH-VPN-PROXY-BYPASS" AdBlock List (Top-N Version)
-! Version: 1754384852
-! Number of rules: 1614
+! Version: 1754471257
+! Number of rules: 1615
 !
 ||0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com^
 ||012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com^
@@ -76,6 +76,7 @@
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
 ||2.dnscrypt-cert.quad9.net^
+||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||20374040a718112b4aaffa7c8b5c9a7b34101f5b-m.proxy1.startpage.com^
 ||218c507e876c1e11a842bf9708336d98f8497ade-m.proxy1.startpage.com^
 ||21d625988c079175e3a1b75199102bb3b915a8e3-m.proxy1.startpage.com^
@@ -349,6 +350,7 @@
 ||acf8a841a606a6ce022bea3fa0c98e3a0c21c81b-m.proxy1.startpage.com^
 ||actmobile.com^
 ||ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com^
+||ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com^
 ||adblock-dot.dnswarden.com^
 ||adbox-v8.srv64.de^
 ||addition.chillyparrotmath.cloudns.ch^
@@ -1227,6 +1229,8 @@
 ||notvpn.io^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
+||ns1.recursive.dnsbycomodo.com^
+||ns2.recursive.dnsbycomodo.com^
 ||ns8469rfvth42.xyz^
 ||nslookup.io^
 ||nuclearvp.global.ssl.fastly.net^
@@ -1275,10 +1279,6 @@
 ||phx01.dnscry.pt^
 ||physics.sciencestudy.biz.st^
 ||piaproxy.net^
-||pihole1.hoerli.net^
-||pihole2.hoerli.net^
-||pihole3.hoerli.net^
-||pihole4.hoerli.net^
 ||plainproxies.com^
 ||pluton.plan9-dns.com^
 ||pointtoserver.com^
@@ -1316,7 +1316,7 @@
 ||proxy.com.de^
 ||proxy.kakeru.f5.si^
 ||proxy.wynd.network^
-||proxy5.startpage.com^
+||proxyadult.org^
 ||proxybrowser.github.io^
 ||proxyium.com^
 ||proxymesh.com^
@@ -1587,6 +1587,7 @@
 ||windscribe.com^
 ||wireguard.com^
 ||wirevpn.app^
+||wirevpn.cc^
 ||wiseghostapp.com^
 ||witopia.net^
 ||wlvpn.com^

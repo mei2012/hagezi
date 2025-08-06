@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754384852 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754471257 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -147,6 +147,8 @@ $TTL 3600
 *.2.dnscrypt-cert.opendns.com IN CNAME .
 2.dnscrypt-cert.quad9.net IN CNAME .
 *.2.dnscrypt-cert.quad9.net IN CNAME .
+2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
+*.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 20374040a718112b4aaffa7c8b5c9a7b34101f5b-m.proxy1.startpage.com IN CNAME .
 *.20374040a718112b4aaffa7c8b5c9a7b34101f5b-m.proxy1.startpage.com IN CNAME .
 218c507e876c1e11a842bf9708336d98f8497ade-m.proxy1.startpage.com IN CNAME .
@@ -693,6 +695,8 @@ actmobile.com IN CNAME .
 *.actmobile.com IN CNAME .
 ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com IN CNAME .
 *.ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com IN CNAME .
+ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com IN CNAME .
+*.ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com IN CNAME .
 adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
 adbox-v8.srv64.de IN CNAME .
@@ -2449,6 +2453,10 @@ ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
 *.ns1.fdn.fr IN CNAME .
+ns1.recursive.dnsbycomodo.com IN CNAME .
+*.ns1.recursive.dnsbycomodo.com IN CNAME .
+ns2.recursive.dnsbycomodo.com IN CNAME .
+*.ns2.recursive.dnsbycomodo.com IN CNAME .
 ns8469rfvth42.xyz IN CNAME .
 *.ns8469rfvth42.xyz IN CNAME .
 nslookup.io IN CNAME .
@@ -2545,14 +2553,6 @@ physics.sciencestudy.biz.st IN CNAME .
 *.physics.sciencestudy.biz.st IN CNAME .
 piaproxy.net IN CNAME .
 *.piaproxy.net IN CNAME .
-pihole1.hoerli.net IN CNAME .
-*.pihole1.hoerli.net IN CNAME .
-pihole2.hoerli.net IN CNAME .
-*.pihole2.hoerli.net IN CNAME .
-pihole3.hoerli.net IN CNAME .
-*.pihole3.hoerli.net IN CNAME .
-pihole4.hoerli.net IN CNAME .
-*.pihole4.hoerli.net IN CNAME .
 plainproxies.com IN CNAME .
 *.plainproxies.com IN CNAME .
 pluton.plan9-dns.com IN CNAME .
@@ -2627,8 +2627,8 @@ proxy.kakeru.f5.si IN CNAME .
 *.proxy.kakeru.f5.si IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
-proxy5.startpage.com IN CNAME .
-*.proxy5.startpage.com IN CNAME .
+proxyadult.org IN CNAME .
+*.proxyadult.org IN CNAME .
 proxybrowser.github.io IN CNAME .
 *.proxybrowser.github.io IN CNAME .
 proxyium.com IN CNAME .
@@ -3169,6 +3169,8 @@ wireguard.com IN CNAME .
 *.wireguard.com IN CNAME .
 wirevpn.app IN CNAME .
 *.wirevpn.app IN CNAME .
+wirevpn.cc IN CNAME .
+*.wirevpn.cc IN CNAME .
 wiseghostapp.com IN CNAME .
 *.wiseghostapp.com IN CNAME .
 witopia.net IN CNAME .
