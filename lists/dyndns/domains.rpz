@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754384857 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754471262 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -59,6 +59,8 @@ brasilia.me IN CNAME .
 *.brasilia.me IN CNAME .
 broke-it.net IN CNAME .
 *.broke-it.net IN CNAME .
+bumbleshrimp.com IN CNAME .
+*.bumbleshrimp.com IN CNAME .
 camdvr.org IN CNAME .
 *.camdvr.org IN CNAME .
 casacam.net IN CNAME .
@@ -107,6 +109,8 @@ custom-gaming.net IN CNAME .
 *.custom-gaming.net IN CNAME .
 damnserver.com IN CNAME .
 *.damnserver.com IN CNAME .
+dd-dns.de IN CNAME .
+*.dd-dns.de IN CNAME .
 ddns.com.br IN CNAME .
 *.ddns.com.br IN CNAME .
 ddns.info IN CNAME .
@@ -743,6 +747,8 @@ serveftp.com IN CNAME .
 *.serveftp.com IN CNAME .
 serveftp.net IN CNAME .
 *.serveftp.net IN CNAME .
+serveftp.org IN CNAME .
+*.serveftp.org IN CNAME .
 servegame.com IN CNAME .
 *.servegame.com IN CNAME .
 servehalflife.com IN CNAME .
@@ -785,6 +791,8 @@ spdns.org IN CNAME .
 *.spdns.org IN CNAME .
 spdyn.de IN CNAME .
 *.spdyn.de IN CNAME .
+spectrumnet.bg IN CNAME .
+*.spectrumnet.bg IN CNAME .
 srv64.de IN CNAME .
 *.srv64.de IN CNAME .
 sslip.io IN CNAME .
