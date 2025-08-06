@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "DOH" AdBlock List (Top-N Version)
-! Version: 1754384845
-! Number of rules: 484
+! Version: 1754471250
+! Number of rules: 483
 !
 ||0ms.dev^
 ||2.dnscrypt-cert.blahdns.com^
@@ -11,6 +11,7 @@
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
 ||2.dnscrypt-cert.quad9.net^
+||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||8888.google^
 ||a.family.ns.dnslify.com^
 ||a.ns.dnslify.com^
@@ -370,6 +371,8 @@
 ||noads.joindns4.eu^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
+||ns1.recursive.dnsbycomodo.com^
+||ns2.recursive.dnsbycomodo.com^
 ||nue01.dnscry.pt^
 ||nvi-dns.bitdefender.net^
 ||nyc01.dnscry.pt^
@@ -388,10 +391,6 @@
 ||pdx01.dnscry.pt^
 ||phl01.dnscry.pt^
 ||phx01.dnscry.pt^
-||pihole1.hoerli.net^
-||pihole2.hoerli.net^
-||pihole3.hoerli.net^
-||pihole4.hoerli.net^
 ||pluton.plan9-dns.com^
 ||privatnas.servebeer.com^
 ||pro.shecan.ir^

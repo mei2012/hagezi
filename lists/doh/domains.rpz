@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754384845 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754471250 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -17,6 +17,8 @@ $TTL 3600
 *.2.dnscrypt-cert.opendns.com IN CNAME .
 2.dnscrypt-cert.quad9.net IN CNAME .
 *.2.dnscrypt-cert.quad9.net IN CNAME .
+2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
+*.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 8888.google IN CNAME .
 *.8888.google IN CNAME .
 a.family.ns.dnslify.com IN CNAME .
@@ -735,6 +737,10 @@ ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
 *.ns1.fdn.fr IN CNAME .
+ns1.recursive.dnsbycomodo.com IN CNAME .
+*.ns1.recursive.dnsbycomodo.com IN CNAME .
+ns2.recursive.dnsbycomodo.com IN CNAME .
+*.ns2.recursive.dnsbycomodo.com IN CNAME .
 nue01.dnscry.pt IN CNAME .
 *.nue01.dnscry.pt IN CNAME .
 nvi-dns.bitdefender.net IN CNAME .
@@ -771,14 +777,6 @@ phl01.dnscry.pt IN CNAME .
 *.phl01.dnscry.pt IN CNAME .
 phx01.dnscry.pt IN CNAME .
 *.phx01.dnscry.pt IN CNAME .
-pihole1.hoerli.net IN CNAME .
-*.pihole1.hoerli.net IN CNAME .
-pihole2.hoerli.net IN CNAME .
-*.pihole2.hoerli.net IN CNAME .
-pihole3.hoerli.net IN CNAME .
-*.pihole3.hoerli.net IN CNAME .
-pihole4.hoerli.net IN CNAME .
-*.pihole4.hoerli.net IN CNAME .
 pluton.plan9-dns.com IN CNAME .
 *.pluton.plan9-dns.com IN CNAME .
 privatnas.servebeer.com IN CNAME .
