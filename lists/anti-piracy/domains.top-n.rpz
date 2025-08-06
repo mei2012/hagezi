@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754384841 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754471246 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -1087,6 +1087,8 @@ fpftp.blogspot.com IN CNAME .
 *.fpftp.blogspot.com IN CNAME .
 frap94.blogspot.com IN CNAME .
 *.frap94.blogspot.com IN CNAME .
+frdl.io IN CNAME .
+*.frdl.io IN CNAME .
 free-movie-s.com IN CNAME .
 *.free-movie-s.com IN CNAME .
 freedisc.pl IN CNAME .
@@ -1661,8 +1663,6 @@ mazedanetworks.net IN CNAME .
 *.mazedanetworks.net IN CNAME .
 mcead.com IN CNAME .
 *.mcead.com IN CNAME .
-mcnbd.com IN CNAME .
-*.mcnbd.com IN CNAME .
 mcpedl.org IN CNAME .
 *.mcpedl.org IN CNAME .
 mediafire.com IN CNAME .
@@ -2197,6 +2197,8 @@ real-debrid.com IN CNAME .
 *.real-debrid.com IN CNAME .
 redacted.sh IN CNAME .
 *.redacted.sh IN CNAME .
+redump.org IN CNAME .
+*.redump.org IN CNAME .
 reelzone.vercel.app IN CNAME .
 *.reelzone.vercel.app IN CNAME .
 reggae-lossless.no-ip.org IN CNAME .
@@ -2743,6 +2745,8 @@ tk1.trackerservers.com IN CNAME .
 *.tk1.trackerservers.com IN CNAME .
 tk2.greedland.net IN CNAME .
 *.tk2.greedland.net IN CNAME .
+todotorrents.com IN CNAME .
+*.todotorrents.com IN CNAME .
 tokybook.com IN CNAME .
 *.tokybook.com IN CNAME .
 tokyotosho.info IN CNAME .
@@ -2875,6 +2879,8 @@ tpb.skynetcloud.site IN CNAME .
 *.tpb.skynetcloud.site IN CNAME .
 tr-rh-zhuqiy.dgj055.icu IN CNAME .
 *.tr-rh-zhuqiy.dgj055.icu IN CNAME .
+tr-zhuqiy-2.dgj055.icu IN CNAME .
+*.tr-zhuqiy-2.dgj055.icu IN CNAME .
 tr.abiir.top IN CNAME .
 *.tr.abiir.top IN CNAME .
 tr.abir.ga IN CNAME .
@@ -3561,8 +3567,6 @@ win2crack.blogspot.com IN CNAME .
 *.win2crack.blogspot.com IN CNAME .
 win2crack.blogspot.in IN CNAME .
 *.win2crack.blogspot.in IN CNAME .
-winitpro.ru IN CNAME .
-*.winitpro.ru IN CNAME .
 world-files.com IN CNAME .
 *.world-files.com IN CNAME .
 wovie.vercel.app IN CNAME .
@@ -3649,8 +3653,6 @@ ytmp4.is IN CNAME .
 *.ytmp4.is IN CNAME .
 ytricks.co IN CNAME .
 *.ytricks.co IN CNAME .
-yts.am IN CNAME .
-*.yts.am IN CNAME .
 yts.mx IN CNAME .
 *.yts.mx IN CNAME .
 yunnx.com IN CNAME .
