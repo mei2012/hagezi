@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754471762 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754558232 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -43,6 +43,8 @@ amzn.com IN CNAME .
 *.amzn.com IN CNAME .
 anon.to IN CNAME .
 *.anon.to IN CNAME .
+aol.it IN CNAME .
+*.aol.it IN CNAME .
 app.helpline-app.com IN CNAME .
 *.app.helpline-app.com IN CNAME .
 app.link IN CNAME .
@@ -719,8 +721,6 @@ trib.al IN CNAME .
 *.trib.al IN CNAME .
 trim-url.com IN CNAME .
 *.trim-url.com IN CNAME .
-tt.vg IN CNAME .
-*.tt.vg IN CNAME .
 u.to IN CNAME .
 *.u.to IN CNAME .
 ul.to IN CNAME .
@@ -741,8 +741,6 @@ urlgeni.us IN CNAME .
 *.urlgeni.us IN CNAME .
 urlr.me IN CNAME .
 *.urlr.me IN CNAME .
-urlty.co IN CNAME .
-*.urlty.co IN CNAME .
 urlxray.com IN CNAME .
 *.urlxray.com IN CNAME .
 urlz.fr IN CNAME .
