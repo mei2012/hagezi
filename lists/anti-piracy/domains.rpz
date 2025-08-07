@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754471246 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754557644 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -19,8 +19,6 @@ $TTL 3600
 *.100520.com IN CNAME .
 107.189.10.20.sslip.io IN CNAME .
 *.107.189.10.20.sslip.io IN CNAME .
-123-hd.com IN CNAME .
-*.123-hd.com IN CNAME .
 123-movies.com IN CNAME .
 *.123-movies.com IN CNAME .
 123movies-to.org IN CNAME .
@@ -969,6 +967,8 @@ eztv.re IN CNAME .
 *.eztv.re IN CNAME .
 eztv.tf IN CNAME .
 *.eztv.tf IN CNAME .
+eztv.unblocked.how IN CNAME .
+*.eztv.unblocked.how IN CNAME .
 eztv.wf IN CNAME .
 *.eztv.wf IN CNAME .
 eztv.yt IN CNAME .
@@ -1549,8 +1549,6 @@ libgen.li IN CNAME .
 *.libgen.li IN CNAME .
 libgen.rs IN CNAME .
 *.libgen.rs IN CNAME .
-librefutbol.su IN CNAME .
-*.librefutbol.su IN CNAME .
 libtorrent.org IN CNAME .
 *.libtorrent.org IN CNAME .
 lidarr.audio IN CNAME .
@@ -1559,6 +1557,8 @@ lightdlmovies.blogspot.com IN CNAME .
 *.lightdlmovies.blogspot.com IN CNAME .
 lim95310.blogspot.com IN CNAME .
 *.lim95310.blogspot.com IN CNAME .
+limetorrents.cc IN CNAME .
+*.limetorrents.cc IN CNAME .
 limetorrents.lol IN CNAME .
 *.limetorrents.lol IN CNAME .
 line-net.ru IN CNAME .
@@ -1681,6 +1681,8 @@ megathread.pages.dev IN CNAME .
 *.megathread.pages.dev IN CNAME .
 megawarez.webcindario.com IN CNAME .
 *.megawarez.webcindario.com IN CNAME .
+melomovie.site IN CNAME .
+*.melomovie.site IN CNAME .
 members.shaw.ca IN CNAME .
 *.members.shaw.ca IN CNAME .
 metal-torrents.hopto.org IN CNAME .
@@ -2159,6 +2161,8 @@ rahfies.blogspot.com IN CNAME .
 *.rahfies.blogspot.com IN CNAME .
 rahfies.blogspot.in IN CNAME .
 *.rahfies.blogspot.in IN CNAME .
+raidrush.ws IN CNAME .
+*.raidrush.ws IN CNAME .
 rajaapk.com IN CNAME .
 *.rajaapk.com IN CNAME .
 rap-war-fam.blogspot.com IN CNAME .
@@ -3365,6 +3369,8 @@ uks-torrents.no-ip.com IN CNAME .
 *.uks-torrents.no-ip.com IN CNAME .
 ultpreplayer.com IN CNAME .
 *.ultpreplayer.com IN CNAME .
+unblocked.id IN CNAME .
+*.unblocked.id IN CNAME .
 unblockedgames.world IN CNAME .
 *.unblockedgames.world IN CNAME .
 unblockninja.com IN CNAME .
@@ -3399,8 +3405,6 @@ uploadrar.com IN CNAME .
 *.uploadrar.com IN CNAME .
 uptobox.com IN CNAME .
 *.uptobox.com IN CNAME .
-uraniumhexafluori.de IN CNAME .
-*.uraniumhexafluori.de IN CNAME .
 usenet-crawler.com IN CNAME .
 *.usenet-crawler.com IN CNAME .
 usenet.farm IN CNAME .
