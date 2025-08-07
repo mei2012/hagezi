@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754471262 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754557662 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -217,8 +217,6 @@ dsmtp.com IN CNAME .
 *.dsmtp.com IN CNAME .
 dtdns.com IN CNAME .
 *.dtdns.com IN CNAME .
-dubya.info IN CNAME .
-*.dubya.info IN CNAME .
 dubya.net IN CNAME .
 *.dubya.net IN CNAME .
 duckdns.org IN CNAME .
@@ -627,6 +625,8 @@ neat-url.com IN CNAME .
 *.neat-url.com IN CNAME .
 nedvighimost-sochi.ru IN CNAME .
 *.nedvighimost-sochi.ru IN CNAME .
+net-freaks.com IN CNAME .
+*.net-freaks.com IN CNAME .
 netcabo.pt IN CNAME .
 *.netcabo.pt IN CNAME .
 no-ip.biz IN CNAME .
