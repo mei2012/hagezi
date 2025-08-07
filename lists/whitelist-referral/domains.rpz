@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754471766 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754558236 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -1667,6 +1667,8 @@ t.indeed.com IN CNAME .
 *.t.indeed.com IN CNAME .
 t.ionos.de IN CNAME .
 *.t.ionos.de IN CNAME .
+t.lever-analytics.com IN CNAME .
+*.t.lever-analytics.com IN CNAME .
 t.lt02.net IN CNAME .
 *.t.lt02.net IN CNAME .
 t.mmtrkr.com IN CNAME .
