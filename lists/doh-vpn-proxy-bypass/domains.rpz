@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754471258 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754557657 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -793,8 +793,6 @@ api.bytelixir.com IN CNAME .
 *.api.bytelixir.com IN CNAME .
 api.cloudflareclient.com IN CNAME .
 *.api.cloudflareclient.com IN CNAME .
-aqua.is.my.waifu.cz IN CNAME .
-*.aqua.is.my.waifu.cz IN CNAME .
 arashi.eu.org IN CNAME .
 *.arashi.eu.org IN CNAME .
 arashi.net.eu.org IN CNAME .
@@ -1297,8 +1295,6 @@ dad15cf062e7bf1ee682c47b86d0650ad57eeb6f-m.proxy1.startpage.com IN CNAME .
 *.dad15cf062e7bf1ee682c47b86d0650ad57eeb6f-m.proxy1.startpage.com IN CNAME .
 dandelionsprout.asuscomm.com IN CNAME .
 *.dandelionsprout.asuscomm.com IN CNAME .
-darkness.is.my.waifu.cz IN CNAME .
-*.darkness.is.my.waifu.cz IN CNAME .
 dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com IN CNAME .
 *.dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com IN CNAME .
 dbneime5ub7kb.cloudfront.net IN CNAME .
@@ -2121,8 +2117,6 @@ home.sso.toythieves.com IN CNAME .
 *.home.sso.toythieves.com IN CNAME .
 home.x-narod.ru IN CNAME .
 *.home.x-narod.ru IN CNAME .
-home27.duckdns.org IN CNAME .
-*.home27.duckdns.org IN CNAME .
 honeygain.me IN CNAME .
 *.honeygain.me IN CNAME .
 horrible-mala-mapmath-8d242314.koyeb.app IN CNAME .
@@ -2233,8 +2227,6 @@ jp.tiarap.org IN CNAME .
 *.jp.tiarap.org IN CNAME .
 judua3rtinpst0s.xyz IN CNAME .
 *.judua3rtinpst0s.xyz IN CNAME .
-jurre-home.duckdns.org IN CNAME .
-*.jurre-home.duckdns.org IN CNAME .
 keithchung.hopto.org IN CNAME .
 *.keithchung.hopto.org IN CNAME .
 kiri.nonexiste.net IN CNAME .
@@ -2253,8 +2245,6 @@ kproxy.com IN CNAME .
 *.kproxy.com IN CNAME .
 kronos.plan9-dns.com IN CNAME .
 *.kronos.plan9-dns.com IN CNAME .
-krtekvpn.duckdns.org IN CNAME .
-*.krtekvpn.duckdns.org IN CNAME .
 kz-pav-w-p-1.nashkan.net IN CNAME .
 *.kz-pav-w-p-1.nashkan.net IN CNAME .
 lantern.io IN CNAME .
@@ -2327,8 +2317,6 @@ maxkershoe.soon.it IN CNAME .
 *.maxkershoe.soon.it IN CNAME .
 maxr2025.vercel.app IN CNAME .
 *.maxr2025.vercel.app IN CNAME .
-megumin.is.my.waifu.cz IN CNAME .
-*.megumin.is.my.waifu.cz IN CNAME .
 mel-au.prcdn.net IN CNAME .
 *.mel-au.prcdn.net IN CNAME .
 metal-masters.us IN CNAME .
@@ -2513,8 +2501,6 @@ ore-dns.bitdefender.net IN CNAME .
 *.ore-dns.bitdefender.net IN CNAME .
 os4work.com IN CNAME .
 *.os4work.com IN CNAME .
-osefcorp.duckdns.org IN CNAME .
-*.osefcorp.duckdns.org IN CNAME .
 outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com IN CNAME .
 *.outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com IN CNAME .
 overplay.net IN CNAME .
@@ -2999,6 +2985,10 @@ unblock-proxy.com.de IN CNAME .
 *.unblock-proxy.com.de IN CNAME .
 unblock-us.com IN CNAME .
 *.unblock-us.com IN CNAME .
+unblocked.how IN CNAME .
+*.unblocked.how IN CNAME .
+unblocked.id IN CNAME .
+*.unblocked.id IN CNAME .
 unblocker.chesse.ip-ddns.com IN CNAME .
 *.unblocker.chesse.ip-ddns.com IN CNAME .
 unblocker.netlify.app IN CNAME .
@@ -3169,8 +3159,6 @@ wireguard.com IN CNAME .
 *.wireguard.com IN CNAME .
 wirevpn.app IN CNAME .
 *.wirevpn.app IN CNAME .
-wirevpn.cc IN CNAME .
-*.wirevpn.cc IN CNAME .
 wiseghostapp.com IN CNAME .
 *.wiseghostapp.com IN CNAME .
 witopia.net IN CNAME .
@@ -3193,8 +3181,6 @@ yhz01.dnscry.pt IN CNAME .
 *.yhz01.dnscry.pt IN CNAME .
 yul01.dnscry.pt IN CNAME .
 *.yul01.dnscry.pt IN CNAME .
-yunyun.is.my.waifu.cz IN CNAME .
-*.yunyun.is.my.waifu.cz IN CNAME .
 yvr01.dnscry.pt IN CNAME .
 *.yvr01.dnscry.pt IN CNAME .
 yyc01.dnscry.pt IN CNAME .
