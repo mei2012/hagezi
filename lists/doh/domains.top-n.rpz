@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754557649 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754644045 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -617,6 +617,8 @@ hkg01.dnscry.pt IN CNAME .
 *.hkg01.dnscry.pt IN CNAME .
 hkg02.dnscry.pt IN CNAME .
 *.hkg02.dnscry.pt IN CNAME .
+home27.duckdns.org IN CNAME .
+*.home27.duckdns.org IN CNAME .
 hshh.org IN CNAME .
 *.hshh.org IN CNAME .
 http-dns.imoim.net IN CNAME .
@@ -659,6 +661,8 @@ jp.tiar.app IN CNAME .
 *.jp.tiar.app IN CNAME .
 jp.tiarap.org IN CNAME .
 *.jp.tiarap.org IN CNAME .
+jurre-home.duckdns.org IN CNAME .
+*.jurre-home.duckdns.org IN CNAME .
 keithchung.hopto.org IN CNAME .
 *.keithchung.hopto.org IN CNAME .
 kiri.nonexiste.net IN CNAME .
@@ -667,6 +671,8 @@ kiv01.dnscry.pt IN CNAME .
 *.kiv01.dnscry.pt IN CNAME .
 kronos.plan9-dns.com IN CNAME .
 *.kronos.plan9-dns.com IN CNAME .
+krtekvpn.duckdns.org IN CNAME .
+*.krtekvpn.duckdns.org IN CNAME .
 kz-pav-w-p-1.nashkan.net IN CNAME .
 *.kz-pav-w-p-1.nashkan.net IN CNAME .
 las01.dnscry.pt IN CNAME .
@@ -743,14 +749,14 @@ one.one.one.one IN CNAME .
 *.one.one.one.one IN CNAME .
 opencdn.jomodns.com IN CNAME .
 *.opencdn.jomodns.com IN CNAME .
-opennic1.eth-services.de IN CNAME .
-*.opennic1.eth-services.de IN CNAME .
 ord01.dnscry.pt IN CNAME .
 *.ord01.dnscry.pt IN CNAME .
 ordns.he.net IN CNAME .
 *.ordns.he.net IN CNAME .
 ore-dns.bitdefender.net IN CNAME .
 *.ore-dns.bitdefender.net IN CNAME .
+osefcorp.duckdns.org IN CNAME .
+*.osefcorp.duckdns.org IN CNAME .
 par01.dnscry.pt IN CNAME .
 *.par01.dnscry.pt IN CNAME .
 pates.services.sfr.fr.casepp.sfr.fr IN CNAME .
