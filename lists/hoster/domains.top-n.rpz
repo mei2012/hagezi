@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754557711 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754644101 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -131,6 +131,8 @@ bcbloggers.com IN CNAME .
 *.bcbloggers.com IN CNAME .
 bcz.com IN CNAME .
 *.bcz.com IN CNAME .
+bearblog.dev IN CNAME .
+*.bearblog.dev IN CNAME .
 bearsfanteamshop.com IN CNAME .
 *.bearsfanteamshop.com IN CNAME .
 beepworld.de IN CNAME .
@@ -231,6 +233,8 @@ blogblog.com IN CNAME .
 *.blogblog.com IN CNAME .
 blogbright.net IN CNAME .
 *.blogbright.net IN CNAME .
+blogbus.com IN CNAME .
+*.blogbus.com IN CNAME .
 blogcdn.com IN CNAME .
 *.blogcdn.com IN CNAME .
 blogchaat.com IN CNAME .
@@ -639,8 +643,6 @@ cookpad-blog.jp IN CNAME .
 *.cookpad-blog.jp IN CNAME .
 coolpage.biz IN CNAME .
 *.coolpage.biz IN CNAME .
-cowblog.fr IN CNAME .
-*.cowblog.fr IN CNAME .
 cprapid.com IN CNAME .
 *.cprapid.com IN CNAME .
 creacionblog.com IN CNAME .
@@ -1019,6 +1021,8 @@ look4blog.com IN CNAME .
 *.look4blog.com IN CNAME .
 losblogos.com IN CNAME .
 *.losblogos.com IN CNAME .
+lovestoblog.com IN CNAME .
+*.lovestoblog.com IN CNAME .
 lowescouponn.com IN CNAME .
 *.lowescouponn.com IN CNAME .
 loxblog.com IN CNAME .
@@ -1035,8 +1039,6 @@ mdkblog.com IN CNAME .
 *.mdkblog.com IN CNAME .
 mdwrite.net IN CNAME .
 *.mdwrite.net IN CNAME .
-medianewsonline.com IN CNAME .
-*.medianewsonline.com IN CNAME .
 mee.nu IN CNAME .
 *.mee.nu IN CNAME .
 mex.tl IN CNAME .
@@ -1603,8 +1605,6 @@ xsph.ru IN CNAME .
 *.xsph.ru IN CNAME .
 xtgem.com IN CNAME .
 *.xtgem.com IN CNAME .
-xtreemhost.com IN CNAME .
-*.xtreemhost.com IN CNAME .
 xxxxxxxx.jp IN CNAME .
 *.xxxxxxxx.jp IN CNAME .
 xzblogs.com IN CNAME .
