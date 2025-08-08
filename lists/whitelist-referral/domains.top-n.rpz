@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754558236 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754644571 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -79,6 +79,8 @@ ad.adverticum.net IN CNAME .
 *.ad.adverticum.net IN CNAME .
 ad.doubleclick.net IN CNAME .
 *.ad.doubleclick.net IN CNAME .
+ad.dyntracker.de IN CNAME .
+*.ad.dyntracker.de IN CNAME .
 ad.lifesight.io IN CNAME .
 *.ad.lifesight.io IN CNAME .
 adfoc.us IN CNAME .
