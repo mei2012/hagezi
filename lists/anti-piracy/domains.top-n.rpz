@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754557644 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754644041 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -23,6 +23,8 @@ $TTL 3600
 *.123-movies.com IN CNAME .
 123movies-to.org IN CNAME .
 *.123movies-to.org IN CNAME .
+123movies.online IN CNAME .
+*.123movies.online IN CNAME .
 123moviesfree.net IN CNAME .
 *.123moviesfree.net IN CNAME .
 123moviestv.net IN CNAME .
@@ -731,6 +733,8 @@ cytu.be IN CNAME .
 *.cytu.be IN CNAME .
 d-addicts.com IN CNAME .
 *.d-addicts.com IN CNAME .
+d-s.io IN CNAME .
+*.d-s.io IN CNAME .
 d40969.acod.regrucolo.ru IN CNAME .
 *.d40969.acod.regrucolo.ru IN CNAME .
 dark-warez.new.fr IN CNAME .
@@ -805,6 +809,8 @@ dle-news.ru IN CNAME .
 *.dle-news.ru IN CNAME .
 dler.org IN CNAME .
 *.dler.org IN CNAME .
+do7go.com IN CNAME .
+*.do7go.com IN CNAME .
 docer.pl IN CNAME .
 *.docer.pl IN CNAME .
 docker-tracker-production.up.railway.app IN CNAME .
@@ -823,8 +829,14 @@ donkey.to IN CNAME .
 *.donkey.to IN CNAME .
 dood.to IN CNAME .
 *.dood.to IN CNAME .
+dood.watch IN CNAME .
+*.dood.watch IN CNAME .
+dood.yt IN CNAME .
+*.dood.yt IN CNAME .
 doodstream.com IN CNAME .
 *.doodstream.com IN CNAME .
+dooood.com IN CNAME .
+*.dooood.com IN CNAME .
 dopebox.to IN CNAME .
 *.dopebox.to IN CNAME .
 dotinternetbd.com IN CNAME .
@@ -865,8 +877,6 @@ drunkenslug.com IN CNAME .
 *.drunkenslug.com IN CNAME .
 duboku.fun IN CNAME .
 *.duboku.fun IN CNAME .
-duboku.net IN CNAME .
-*.duboku.net IN CNAME .
 duboku.tv IN CNAME .
 *.duboku.tv IN CNAME .
 dynamic-universe.com IN CNAME .
@@ -1421,6 +1431,8 @@ kaa.mx IN CNAME .
 *.kaa.mx IN CNAME .
 kaffee-wellblech.no-ip.biz IN CNAME .
 *.kaffee-wellblech.no-ip.biz IN CNAME .
+kamikazee.duckdns.org IN CNAME .
+*.kamikazee.duckdns.org IN CNAME .
 kanal-4.de IN CNAME .
 *.kanal-4.de IN CNAME .
 kaos-warez.blogspot.com IN CNAME .
@@ -1849,6 +1861,8 @@ myporn.club IN CNAME .
 *.myporn.club IN CNAME .
 myspleen.org IN CNAME .
 *.myspleen.org IN CNAME .
+mytoplist.2ix.de IN CNAME .
+*.mytoplist.2ix.de IN CNAME .
 mywebpages.comcast.net IN CNAME .
 *.mywebpages.comcast.net IN CNAME .
 nanikano.no-ip.org IN CNAME .
@@ -1921,8 +1935,6 @@ ns3109441.mypdns.org IN CNAME .
 *.ns3109441.mypdns.org IN CNAME .
 ns389251.ovh.net IN CNAME .
 *.ns389251.ovh.net IN CNAME .
-nsaneforums.com IN CNAME .
-*.nsaneforums.com IN CNAME .
 nsw2u.com IN CNAME .
 *.nsw2u.com IN CNAME .
 nswgame.com IN CNAME .
@@ -2209,6 +2221,8 @@ reggae-lossless.no-ip.org IN CNAME .
 *.reggae-lossless.no-ip.org IN CNAME .
 region.nl1.privex.cc IN CNAME .
 *.region.nl1.privex.cc IN CNAME .
+rekcart.duckdns.org IN CNAME .
+*.rekcart.duckdns.org IN CNAME .
 rep-art.ynh.fr IN CNAME .
 *.rep-art.ynh.fr IN CNAME .
 retracker.akado-ural.ru IN CNAME .
@@ -2405,6 +2419,8 @@ serialkeyz.wordpress.com IN CNAME .
 *.serialkeyz.wordpress.com IN CNAME .
 serienstream.to IN CNAME .
 *.serienstream.to IN CNAME .
+series9mx.pro IN CNAME .
+*.series9mx.pro IN CNAME .
 seriesonlinehd.net IN CNAME .
 *.seriesonlinehd.net IN CNAME .
 seriezloaded.com.ng IN CNAME .
@@ -2725,6 +2741,8 @@ theultimatesoft.blogspot.com IN CNAME .
 *.theultimatesoft.blogspot.com IN CNAME .
 theweddingringer2015watchonline.tumblr.com IN CNAME .
 *.theweddingringer2015watchonline.tumblr.com IN CNAME .
+thinking.duckdns.org IN CNAME .
+*.thinking.duckdns.org IN CNAME .
 thitgaluoc.dynu.net IN CNAME .
 *.thitgaluoc.dynu.net IN CNAME .
 thouvenin.cloud IN CNAME .
@@ -2795,6 +2813,8 @@ torrent.arjlover.net IN CNAME .
 *.torrent.arjlover.net IN CNAME .
 torrent.by IN CNAME .
 *.torrent.by IN CNAME .
+torrent.dfnbd.net IN CNAME .
+*.torrent.dfnbd.net IN CNAME .
 torrent.eu.org IN CNAME .
 *.torrent.eu.org IN CNAME .
 torrent.fedoraproject.org IN CNAME .
@@ -2833,6 +2853,8 @@ torrentgalaxy.to IN CNAME .
 *.torrentgalaxy.to IN CNAME .
 torrenting.com IN CNAME .
 *.torrenting.com IN CNAME .
+torrentkitty.net IN CNAME .
+*.torrentkitty.net IN CNAME .
 torrentleech.org IN CNAME .
 *.torrentleech.org IN CNAME .
 torrentmac.net IN CNAME .
@@ -2883,6 +2905,8 @@ tpb.skynetcloud.site IN CNAME .
 *.tpb.skynetcloud.site IN CNAME .
 tr-rh-zhuqiy.dgj055.icu IN CNAME .
 *.tr-rh-zhuqiy.dgj055.icu IN CNAME .
+tr-zhuqiy-1.dgj055.icu IN CNAME .
+*.tr-zhuqiy-1.dgj055.icu IN CNAME .
 tr-zhuqiy-2.dgj055.icu IN CNAME .
 *.tr-zhuqiy-2.dgj055.icu IN CNAME .
 tr.abiir.top IN CNAME .
@@ -3005,6 +3029,8 @@ tracker.dutchtracking.com IN CNAME .
 *.tracker.dutchtracking.com IN CNAME .
 tracker.dyne.org IN CNAME .
 *.tracker.dyne.org IN CNAME .
+tracker.edkj.club IN CNAME .
+*.tracker.edkj.club IN CNAME .
 tracker.empornium.is IN CNAME .
 *.tracker.empornium.is IN CNAME .
 tracker.empornium.sx IN CNAME .
