@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754558232 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754644567 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 1drv.ms IN CNAME .
@@ -121,6 +121,8 @@ cnb.cx IN CNAME .
 *.cnb.cx IN CNAME .
 cnn.it IN CNAME .
 *.cnn.it IN CNAME .
+coinreal-us.com IN CNAME .
+*.coinreal-us.com IN CNAME .
 conta.cc IN CNAME .
 *.conta.cc IN CNAME .
 cort.as IN CNAME .
@@ -509,6 +511,8 @@ posh.mk IN CNAME .
 *.posh.mk IN CNAME .
 ppt.cc IN CNAME .
 *.ppt.cc IN CNAME .
+ppt.dpanda.in IN CNAME .
+*.ppt.dpanda.in IN CNAME .
 prf.hn IN CNAME .
 *.prf.hn IN CNAME .
 prime-link.net IN CNAME .
@@ -731,8 +735,6 @@ url.cn IN CNAME .
 *.url.cn IN CNAME .
 url.eefocus.com IN CNAME .
 *.url.eefocus.com IN CNAME .
-url.rw IN CNAME .
-*.url.rw IN CNAME .
 url.sae.digital IN CNAME .
 *.url.sae.digital IN CNAME .
 url.vhearts.net IN CNAME .
